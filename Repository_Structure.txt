@@ -1,0 +1,19 @@
+ 
+DesktopDownloadsArchiver/
+│
+├── src/
+│   └── DesktopDownloadsArchiver.py
+│
+├── config/
+│   └── config.json
+│
+├── docs/
+│   ├── README.html
+│   └── screenshots/
+│       ├── before.png
+│       └── after.png
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
