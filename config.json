@@ -1,0 +1,14 @@
+{
+    "excluded_extensions": [],
+    "excluded_files": [
+        "desktop.ini",
+        "Recycle Bin",
+        "$RECYCLE.BIN",
+        "Trash",
+        ".DS_Store",
+        "thumbs.db"
+    ],
+    "archive_folder_name": "Archive",
+    "max_archive_age_days": 90,
+    "compress_archives": true
+}
