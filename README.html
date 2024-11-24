@@ -1,0 +1,121 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DesktopDownloadsArchiver (DDA)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        .container {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>DesktopDownloadsArchiver (DDA)</h1>
+
+    <div class="container">
+        <h2>🎯 Purpose</h2>
+        <p>DDA automatically organizes your Desktop and Downloads folders by moving files into dated archive folders, helping you maintain a clean workspace while preserving file history.</p>
+    </div>
+
+    <div class="container">
+        <h2>🛠️ Installation</h2>
+        <p>Copy and paste these commands into your terminal:</p>
+        <pre>
+python -m venv venv
+venv\Scripts\activate
+pip install pathlib
+pip install typing
+python DesktopDownloadsArchiver.py</pre>
+    </div>
+
+    <div class="container">
+        <h2>📁 File Structure</h2>
+        <pre>
+Desktop/
+└── Archive/              # Root folder
+    └── Nov-24-2023_02-30PM/  # Dated subfolder
+        └── files...      # Moved files
+
+Downloads/
+└── Archive/              # Root folder
+    └── Nov-24-2023_02-30PM/  # Dated subfolder
+        └── files...      # Moved files</pre>
+    </div>
+
+    <div class="container">
+        <h2>💡 How to Use</h2>
+        <ol>
+            <li>Download the repository</li>
+            <li>Install requirements</li>
+            <li>Run the script</li>
+            <li>Press Enter to start organizing</li>
+            <li>Check your Desktop and Downloads folders for the new Archive structure</li>
+        </ol>
+    </div>
+
+    <div class="container">
+        <h2>📝 Example Use Case</h2>
+        <p>Perfect for:</p>
+        <ul>
+            <li>End of month cleanup</li>
+            <li>Organizing work files by date</li>
+            <li>Maintaining file history without manual organization</li>
+            <li>Quick cleanup before presentations</li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <h2>⚙️ Configuration</h2>
+        <p>Edit <code>config.json</code> to customize:</p>
+        <ul>
+            <li>Excluded file types</li>
+            <li>System files to ignore</li>
+            <li>Archive folder name</li>
+            <li>Maximum archive age</li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <h2>💻 Compatibility</h2>
+        <ul>
+            <li>✅ Windows</li>
+            <li>✅ macOS</li>
+            <li>✅ Linux</li>
+            <li>✅ OneDrive Support</li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <h2>🤝 Contributing</h2>
+        <p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
+    </div>
+
+    <div class="container">
+        <h2>📄 License</h2>
+        <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+    </div>
+</body>
+</html>
