@@ -1,0 +1,2155 @@
+2024-11-28 18:24:21,919 - INFO - Initializing File Organizer...
+2024-11-28 18:24:22,004 - INFO - Detected OS: Windows
+2024-11-28 18:24:22,012 - INFO - Configuration loaded successfully
+2024-11-28 18:24:22,013 - ERROR - No valid Desktop path found
+2024-11-28 18:24:22,013 - INFO - Found regular Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:24:22,013 - INFO - Found Registry Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:24:22,013 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:24:22,014 - ERROR - Failed to get Desktop path
+2024-11-28 18:24:22,014 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:24:22,015 - INFO - Initialization complete
+2024-11-28 18:24:23,018 - INFO - Starting organization process...
+2024-11-28 18:24:23,019 - ERROR - Skipping Desktop organization - path not available
+2024-11-28 18:24:23,019 - INFO - Organizing Downloads...
+2024-11-28 18:24:23,019 - INFO - Created archive folder: C:\Users\domok\Downloads\Archive
+2024-11-28 18:24:23,288 - INFO - Created dated subfolder: Nov-28-2024_06-24PM
+2024-11-28 18:24:23,289 - INFO - Moved: 10_29_2024_881_consigned_part_adjustments(duplicate).csv
+2024-11-28 18:24:23,290 - INFO - Moved: 10_29_2024_881_consigned_part_adjustments(in).csv
+2024-11-28 18:24:23,291 - INFO - Moved: 1186652-f630a1a8b7443518957f079f3fda3a01ad67e915
+2024-11-28 18:24:23,293 - INFO - Moved: 1186652-f630a1a8b7443518957f079f3fda3a01ad67e915.zip
+2024-11-28 18:24:23,294 - INFO - Moved: 11_04_2024_881_upcoming_consignment_charges.csv
+2024-11-28 18:24:23,294 - INFO - Moved: 11_04_2024_881_upcoming_consignment_charges_adjustments.csv
+2024-11-28 18:24:23,295 - INFO - Moved: 128.png
+2024-11-28 18:24:23,296 - INFO - Moved: 15 Day Work Order Closure Policy.png
+2024-11-28 18:24:23,297 - INFO - Moved: 159e9838-7cf4-4b19-a513-4d8df98416dd_881_-_Active_Repairs.pdf
+2024-11-28 18:24:23,297 - INFO - Moved: 16.png
+2024-11-28 18:24:23,298 - INFO - Moved: 16957794745.htm
+2024-11-28 18:24:23,300 - INFO - Moved: 2.jpg
+2024-11-28 18:24:23,301 - INFO - Moved: 251a97d6f086c784a5f7263c1af92239_compressed.jpg
+2024-11-28 18:24:23,302 - INFO - Moved: 3 Stage - Device Repair Process_  - Sheet1 (1).pdf
+2024-11-28 18:24:23,303 - INFO - Moved: 3 Stage - Device Repair Process_  - Sheet1.pdf
+2024-11-28 18:24:23,303 - INFO - Moved: 3 Stage - Device Repair Process_ .xlsx
+2024-11-28 18:24:23,305 - INFO - Moved: 3220d405-08dc-48c3-b9c2-0ac4eb035ce7
+2024-11-28 18:24:23,305 - INFO - Moved: 4 Employee Expectations 3.pdf
+2024-11-28 18:24:23,306 - INFO - Moved: 48.png
+2024-11-28 18:24:23,307 - INFO - Moved: 4ktokkit_2.7.3_x64_online.exe
+2024-11-28 18:24:23,309 - INFO - Moved: 881 UBIF-Chrome Extension (1)
+2024-11-28 18:24:23,310 - INFO - Moved: 881 UBIF-Chrome Extension.zip
+2024-11-28 18:24:23,311 - INFO - Moved: 91188503-e56b-4805-8ce8-ccc27b7722b8_Daily_Checklist_(List).pdf
+2024-11-28 18:24:23,312 - INFO - Moved: 940b7f5f-6751-49f8-909e-ea57b12f3c7f_Daily_Checklist_(List).pdf
+2024-11-28 18:24:23,313 - INFO - Moved: 9ff3c200-d472-4739-bcf6-0192456cddf3_881_-_Active_Repairs.pdf
+2024-11-28 18:24:23,314 - INFO - Moved: active-updates-overview.xls
+2024-11-28 18:24:23,315 - INFO - Moved: Adding a Google Review QR code to your receipts.pdf
+2024-11-28 18:24:23,316 - INFO - Moved: afterplay.io_play_recently-added.png
+2024-11-28 18:24:23,318 - INFO - Moved: ai_multifunctional_tool_extension
+2024-11-28 18:24:23,319 - INFO - Moved: ai_multifunctional_tool_extension.zip
+2024-11-28 18:24:23,320 - INFO - Moved: alexander-shatov-I4p0FcjDBJI-unsplash.jpg
+2024-11-28 18:24:23,321 - INFO - Moved: amd-software-adrenalin-edition-24.6.1-minimalsetup-240626_web.exe
+2024-11-28 18:24:23,322 - INFO - Moved: AnyDesk.exe
+2024-11-28 18:24:23,324 - INFO - Moved: apk_loader_extension
+2024-11-28 18:24:23,325 - INFO - Moved: apk_loader_extension.zip
+2024-11-28 18:24:23,326 - INFO - Moved: Apple SKU List.numbers
+2024-11-28 18:24:23,327 - INFO - Moved: Appointment System (Appointy Replica)
+2024-11-28 18:24:23,328 - INFO - Moved: Appointment System (Appointy Replica).zip
+2024-11-28 18:24:23,330 - INFO - Moved: Appointment System (Offline Version).html
+2024-11-28 18:24:23,332 - INFO - Moved: appointment-extension
+2024-11-28 18:24:23,333 - INFO - Moved: appointment-system
+2024-11-28 18:24:23,334 - INFO - Moved: appointment-system.zip
+2024-11-28 18:24:23,336 - INFO - Moved: August - September (Updated Schedule)
+2024-11-28 18:24:23,337 - INFO - Moved: August - Week-2 - UBIF Schedule 1.png
+2024-11-28 18:24:23,338 - INFO - Moved: August - Week-3 - UBIF Schedule 1.png
+2024-11-28 18:24:23,340 - INFO - Moved: August - Week-4 - UBIF Schedule 1.png
+2024-11-28 18:24:23,341 - INFO - Moved: Avery - Tardiness and Extended Breaks - 5-25-24.pdf
+2024-11-28 18:24:23,342 - INFO - Moved: BARCODE_00000-00000000.png
+2024-11-28 18:24:23,343 - INFO - Moved: BARCODE_123456789123.png
+2024-11-28 18:24:23,344 - INFO - Moved: BARCODE_127486-56515165.png
+2024-11-28 18:24:23,345 - INFO - Moved: Battle.net-Setup.exe
+2024-11-28 18:24:23,346 - INFO - Moved: BBY Interview Packet.pdf
+2024-11-28 18:24:23,347 - INFO - Moved: Best Buy Receipt.png
+2024-11-28 18:24:23,347 - INFO - Moved: better layout.png
+2024-11-28 18:24:23,348 - INFO - Moved: blue notepad title and blue line next to write note here but on left side of page.png
+2024-11-28 18:24:23,350 - INFO - Moved: BlueStacksFullInstaller_5.21.600.1019_amd64_native.exe
+2024-11-28 18:24:23,351 - INFO - Moved: Bluetooth Headset.png
+2024-11-28 18:24:23,352 - INFO - Moved: bookmarks (1).html
+2024-11-28 18:24:23,353 - INFO - Moved: bookmarks (2).html
+2024-11-28 18:24:23,354 - INFO - Moved: bookmarks.html
+2024-11-28 18:24:23,355 - INFO - Moved: bookmarks_10_27_24.html
+2024-11-28 18:24:23,356 - INFO - Moved: Brian's Queue List - UBIF.png
+2024-11-28 18:24:23,357 - INFO - Moved: Car Maintenance Cheatsheet.jpg
+2024-11-28 18:24:23,358 - INFO - Moved: ccsetup625.exe
+2024-11-28 18:24:23,360 - INFO - Moved: ccsetup629.zip
+2024-11-28 18:24:23,362 - INFO - Moved: ceo@kaywat.me - Spotify Premium - Key.pdf
+2024-11-28 18:24:23,363 - INFO - Moved: change-maker-screenshot (1).png
+2024-11-28 18:24:23,364 - INFO - Moved: change-maker-screenshot.png
+2024-11-28 18:24:23,364 - INFO - Moved: Chargeback Calendar (Offline).zip
+2024-11-28 18:24:23,365 - INFO - Moved: Chargeback DupFinder.zip
+2024-11-28 18:24:23,366 - INFO - Moved: ChatGPT Note - UBIF Extension.txt
+2024-11-28 18:24:23,367 - INFO - Moved: Check In IMEI Doesnt Match Lead-How To.pdf
+2024-11-28 18:24:23,368 - INFO - Moved: CHIME_5.0.9.apk
+2024-11-28 18:24:23,369 - INFO - Moved: Chris Loetz Resume (1).pdf
+2024-11-28 18:24:23,370 - INFO - Moved: Chrome Extension Builder Python Script.py
+2024-11-28 18:24:23,372 - INFO - Moved: chrome-lock
+2024-11-28 18:24:23,373 - INFO - Moved: chrome-lock - (icons).zip
+2024-11-28 18:24:23,374 - INFO - Moved: chrome-lock.zip
+2024-11-28 18:24:23,375 - INFO - Moved: ChromeSetup.exe
+2024-11-28 18:24:23,377 - INFO - Moved: chrome_extension (1)
+2024-11-28 18:24:23,378 - INFO - Moved: chrome_extension (1).zip
+2024-11-28 18:24:23,378 - INFO - Moved: chrome_extension.zip
+2024-11-28 18:24:23,381 - INFO - Moved: CODE128_12 (1).png
+2024-11-28 18:24:23,381 - INFO - Moved: CODE128_12.png
+2024-11-28 18:24:23,382 - INFO - Moved: CODE128_123456789123.png
+2024-11-28 18:24:23,383 - INFO - Moved: code_image (1).png
+2024-11-28 18:24:23,384 - INFO - Moved: code_image (2).png
+2024-11-28 18:24:23,385 - INFO - Moved: code_image (3).png
+2024-11-28 18:24:23,386 - INFO - Moved: code_image (4).png
+2024-11-28 18:24:23,387 - INFO - Moved: code_image (5).png
+2024-11-28 18:24:23,388 - INFO - Moved: code_image (6).png
+2024-11-28 18:24:23,389 - INFO - Moved: code_image (7).png
+2024-11-28 18:24:23,391 - INFO - Moved: code_image (8).png
+2024-11-28 18:24:23,392 - INFO - Moved: code_image (9).png
+2024-11-28 18:24:23,393 - INFO - Moved: code_image(1).png
+2024-11-28 18:24:23,394 - INFO - Moved: code_image.png
+2024-11-28 18:24:23,396 - INFO - Moved: CombinedPriceSheetOverlayExtension
+2024-11-28 18:24:23,397 - INFO - Moved: CombinedPriceSheetOverlayExtension.zip
+2024-11-28 18:24:23,398 - INFO - Moved: crx_downloader
+2024-11-28 18:24:23,399 - INFO - Moved: Daily_Checklist_(List).pdf
+2024-11-28 18:24:23,401 - INFO - Moved: DALL·E 2024-11-04 05.23.31 - A cover image for a blog article on creating a password-protected folder in Windows. The image should depict a computer folder with a lock icon on it,.webp
+2024-11-28 18:24:23,402 - INFO - Moved: DALL·E 2024-11-04 05.24.57 - A cover image for a blog article on creating a password-protected folder in Windows. The image should depict a computer folder with a lock icon on it,.webp
+2024-11-28 18:24:23,403 - INFO - Moved: DALL·E 2024-11-12 20.37.21 - A sleek, modern icon for a Chrome extension named 'Order Parts.' The icon should depict a gear or wrench symbol to represent parts, combined with a ma.webp
+2024-11-28 18:24:23,406 - INFO - Moved: DALL·E 2024-11-12 20.39.09 - A sleek, modern icon for a Chrome extension named 'Order Parts.' The icon should depict a gear or wrench symbol to represent parts, combined with a ma.webp
+2024-11-28 18:24:23,407 - INFO - Moved: DALL·E 2024-11-12 20.52.19 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.png
+2024-11-28 18:24:23,408 - INFO - Moved: DALL·E 2024-11-12 20.52.19 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.webp
+2024-11-28 18:24:23,409 - INFO - Moved: DALL·E 2024-11-12 20.52.55 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.webp
+2024-11-28 18:24:23,412 - INFO - Moved: DALL·E 2024-11-13 09.51.50 - Create a modern, minimalistic lock icon with a padlock design for a Chrome extension. The lock should be represented in a sleek, dark gray or black co.webp
+2024-11-28 18:24:23,413 - INFO - Moved: DALL·E 2024-11-13 09.53.07 - Design a simple, modern padlock icon for a Chrome extension with a bold lock outline, emphasizing security and privacy. Use dark gray or black for the.webp
+2024-11-28 18:24:23,414 - INFO - Moved: DALL·E 2024-11-13 09.54.06 - Create a Chrome extension icon featuring a modern padlock with a folder behind it, symbolizing secure access to files. The padlock should be dark gray.webp
+2024-11-28 18:24:23,414 - INFO - Moved: dark-mode-notepad-extension.zip
+2024-11-28 18:24:23,415 - INFO - Moved: Dell Repair Workflow.png
+2024-11-28 18:24:23,416 - INFO - Moved: Dentist Appointment.pdf
+2024-11-28 18:24:23,417 - INFO - Moved: Device Check-In Form QR Code.png
+2024-11-28 18:24:23,417 - INFO - Moved: Digital Checklist.png
+2024-11-28 18:24:23,418 - INFO - Moved: do eLearnings.png
+2024-11-28 18:24:23,419 - INFO - Moved: download (1).png
+2024-11-28 18:24:23,421 - INFO - Moved: download.jfif
+2024-11-28 18:24:23,422 - INFO - Moved: download.png
+2024-11-28 18:24:23,424 - INFO - Moved: Email
+2024-11-28 18:24:23,425 - INFO - Moved: enhanced_qr_scanner_files
+2024-11-28 18:24:23,426 - INFO - Moved: enhanced_qr_scanner_files.zip
+2024-11-28 18:24:23,427 - INFO - Moved: EpicInstaller-15.17.1.msi
+2024-11-28 18:24:23,428 - INFO - Moved: example 1.png
+2024-11-28 18:24:23,429 - INFO - Moved: example 2 - model is sku is what user searched is url searched sku is model.png
+2024-11-28 18:24:23,431 - INFO - Moved: example photo.png
+2024-11-28 18:24:23,432 - INFO - Moved: example.png
+2024-11-28 18:24:23,433 - INFO - Moved: export-ms-teams-chats-main
+2024-11-28 18:24:23,434 - INFO - Moved: export-ms-teams-chats-main.zip
+2024-11-28 18:24:23,435 - INFO - Moved: Extension Export 2024-07-28 10_01_55.html
+2024-11-28 18:24:23,436 - INFO - Moved: Extension Export 2024-08-11 22_50_15.html
+2024-11-28 18:24:23,437 - INFO - Moved: file (1) (1).png
+2024-11-28 18:24:23,438 - INFO - Moved: file (1).png
+2024-11-28 18:24:23,439 - INFO - Moved: file (2).png
+2024-11-28 18:24:23,441 - INFO - Moved: file (3).png
+2024-11-28 18:24:23,442 - INFO - Moved: file (4).png
+2024-11-28 18:24:23,443 - INFO - Moved: file (5).png
+2024-11-28 18:24:23,444 - INFO - Moved: file-organizer-thing (Move Files).exe
+2024-11-28 18:24:23,445 - INFO - Moved: file.png
+2024-11-28 18:24:23,446 - INFO - Moved: FileOrganizerThing.zip
+2024-11-28 18:24:23,447 - INFO - Moved: Finding an Insurance Claim or In-Warranty Lead ( POS ) (1).pdf
+2024-11-28 18:24:23,449 - INFO - Moved: fontawesome-free-6.6.0-desktop
+2024-11-28 18:24:23,450 - INFO - Moved: fontawesome-free-6.6.0-desktop.zip
+2024-11-28 18:24:23,452 - INFO - Moved: fontawesome-free-6.6.0-web
+2024-11-28 18:24:23,452 - INFO - Moved: fontawesome-free-6.6.0-web.zip
+2024-11-28 18:24:23,453 - INFO - Moved: Format Factory (media converter).exe
+2024-11-28 18:24:23,454 - INFO - Moved: formData (1).txt
+2024-11-28 18:24:23,455 - INFO - Moved: formData (2).txt
+2024-11-28 18:24:23,456 - INFO - Moved: formData.txt
+2024-11-28 18:24:23,457 - INFO - Moved: Gainesville GA Bookmarks.html
+2024-11-28 18:24:23,458 - INFO - Moved: GOG_Galaxy_2.0.exe
+2024-11-28 18:24:23,459 - INFO - Moved: Google Price Sheet.xlsx
+2024-11-28 18:24:23,461 - INFO - Moved: Google-Forms-Responses-To-Docs-master.zip
+2024-11-28 18:24:23,462 - INFO - Moved: Google_Blog_Cover_Art.png
+2024-11-28 18:24:23,464 - INFO - Moved: gs-auto-clicker (Macro).exe
+2024-11-28 18:24:23,465 - INFO - Moved: gsap-public
+2024-11-28 18:24:23,466 - INFO - Moved: gsap-public.zip
+2024-11-28 18:24:23,467 - INFO - Moved: GSPN - Submitting a Level S2+ Certificate Renewal (1).pdf
+2024-11-28 18:24:23,468 - INFO - Moved: GSPN - Submitting a Level S2+ Certificate Renewal.pdf
+2024-11-28 18:24:23,469 - INFO - Moved: GVTech Hub - Chrome Extension Pack.zip
+2024-11-28 18:24:23,471 - INFO - Moved: GVTECH HUB - PRIVATE PAGES.drawio.png
+2024-11-28 18:24:23,472 - INFO - Moved: GVTech Hub Domain Purchase.pdf
+2024-11-28 18:24:23,473 - INFO - Moved: GVTechHub_Extension
+2024-11-28 18:24:23,474 - INFO - Moved: GVTechHub_Extension.zip
+2024-11-28 18:24:23,475 - INFO - Moved: Gym Plan.pdf
+2024-11-28 18:24:23,476 - INFO - Moved: HDClone.X.5.FE.en.Setup.exe
+2024-11-28 18:24:23,477 - INFO - Moved: Hospital Bill (Back).pdf
+2024-11-28 18:24:23,478 - INFO - Moved: Hospital Bill (Front).pdf
+2024-11-28 18:24:23,479 - INFO - Moved: icons
+2024-11-28 18:24:23,481 - INFO - Moved: iiw.jfif
+2024-11-28 18:24:23,482 - INFO - Moved: ikigai Tattoo.jpg
+2024-11-28 18:24:23,482 - INFO - Moved: image (1) 1.png
+2024-11-28 18:24:23,483 - INFO - Moved: image (1).png
+2024-11-28 18:24:23,484 - INFO - Moved: image (10).png
+2024-11-28 18:24:23,485 - INFO - Moved: image (11).png
+2024-11-28 18:24:23,486 - INFO - Moved: image (13).png
+2024-11-28 18:24:23,487 - INFO - Moved: image (14).png
+2024-11-28 18:24:23,488 - INFO - Moved: image (15).png
+2024-11-28 18:24:23,489 - INFO - Moved: image (16).png
+2024-11-28 18:24:23,491 - INFO - Moved: image (17).png
+2024-11-28 18:24:23,492 - INFO - Moved: image (18).png
+2024-11-28 18:24:23,493 - INFO - Moved: Image (2).png
+2024-11-28 18:24:23,494 - INFO - Moved: Image (3).png
+2024-11-28 18:24:23,495 - INFO - Moved: Image (4).png
+2024-11-28 18:24:23,496 - INFO - Moved: Image (5).png
+2024-11-28 18:24:23,497 - INFO - Moved: image (6).png
+2024-11-28 18:24:23,498 - INFO - Moved: image (7).png
+2024-11-28 18:24:23,499 - INFO - Moved: image (8).png
+2024-11-28 18:24:23,501 - INFO - Moved: image (9).png
+2024-11-28 18:24:23,502 - INFO - Moved: image 1.png
+2024-11-28 18:24:23,503 - INFO - Moved: image.png
+2024-11-28 18:24:23,504 - INFO - Moved: images (1).png
+2024-11-28 18:24:23,505 - INFO - Moved: Important Information About This Part.png
+2024-11-28 18:24:23,506 - INFO - Moved: Install iCUE.exe
+2024-11-28 18:24:23,507 - INFO - Moved: iobituninstaller.exe
+2024-11-28 18:24:23,508 - INFO - Moved: item not received - kennedy cutshall - replacement device.png
+2024-11-28 18:24:23,508 - INFO - Moved: IW - In Warranty - Logo.png
+2024-11-28 18:24:23,509 - INFO - Moved: Jack Dooley - Photo 2.png
+2024-11-28 18:24:23,511 - INFO - Moved: Jack Dooley - Screen Recording.mp4
+2024-11-28 18:24:23,512 - INFO - Moved: Jack Dooley.png
+2024-11-28 18:24:23,513 - INFO - Moved: Jagex Launcher Installer.exe
+2024-11-28 18:24:23,514 - INFO - Moved: Joseph Green - Coaching Form.pdf
+2024-11-28 18:24:23,515 - INFO - Moved: Laptop Stand - Macbook Pro 15.png
+2024-11-28 18:24:23,516 - INFO - Moved: Life Tattoo.jfif
+2024-11-28 18:24:23,517 - INFO - Moved: Linkedin Photo.jfif
+2024-11-28 18:24:23,518 - INFO - Moved: Logging into POS.pdf
+2024-11-28 18:24:23,519 - INFO - Moved: Logii Browser Agency v1.8.8 Full Activated - WwW.Dr-FarFar.CoM.zip
+2024-11-28 18:24:23,521 - INFO - Moved: Logo-Search-Google--on-transparent-background-PNG.png
+2024-11-28 18:24:23,522 - INFO - Moved: Macrium Reflect (System Imaging).exe
+2024-11-28 18:24:23,523 - INFO - Moved: Magical Text Expander Check-In Notes Tutorial 3.pdf
+2024-11-28 18:24:23,524 - INFO - Moved: Mail - Loetz, Chris - Outlook.pdf
+2024-11-28 18:24:23,525 - INFO - Moved: MBSetup.exe
+2024-11-28 18:24:23,526 - INFO - Moved: Media (1).jfif
+2024-11-28 18:24:23,527 - INFO - Moved: Media (2).jfif
+2024-11-28 18:24:23,528 - INFO - Moved: Media (3).jfif
+2024-11-28 18:24:23,528 - INFO - Moved: Media (4).jfif
+2024-11-28 18:24:23,529 - INFO - Moved: Media (5).jfif
+2024-11-28 18:24:23,531 - INFO - Moved: Media (6).jfif
+2024-11-28 18:24:23,532 - INFO - Moved: Media (7).jfif
+2024-11-28 18:24:23,533 - INFO - Moved: Media.jfif
+2024-11-28 18:24:23,534 - INFO - Moved: microsoft-teams-chat-extractor-main
+2024-11-28 18:24:23,536 - INFO - Moved: microsoft-teams-chat-extractor-main (1)
+2024-11-28 18:24:23,536 - INFO - Moved: microsoft-teams-chat-extractor-main (1).zip
+2024-11-28 18:24:23,537 - INFO - Moved: microsoft-teams-chat-extractor-main.zip
+2024-11-28 18:24:23,538 - INFO - Moved: modified_extension
+2024-11-28 18:24:23,539 - INFO - Moved: modified_extension.zip
+2024-11-28 18:24:23,541 - INFO - Moved: Monthly Calendar Reparis To Date (08-24-24).pdf
+2024-11-28 18:24:23,542 - INFO - Moved: MouseWithoutBordersSetup.msi
+2024-11-28 18:24:23,543 - INFO - Moved: Move Files - File Organizer
+2024-11-28 18:24:23,544 - INFO - Moved: MW - Max Trade Credit Amount - UBIF.png
+2024-11-28 18:24:23,545 - INFO - Moved: NDI 6 Tools.exe
+2024-11-28 18:24:23,546 - INFO - Moved: New Offline WO Form 2022.pdf
+2024-11-28 18:24:23,547 - INFO - Moved: New tab.htm
+2024-11-28 18:24:23,548 - INFO - Moved: New tab_files
+2024-11-28 18:24:23,549 - INFO - Moved: NH Evo Leader Guide.pdf
+2024-11-28 18:24:23,551 - INFO - Moved: North Side Hospital Bill Notice.pdf
+2024-11-28 18:24:23,552 - INFO - Moved: not right proportion.png
+2024-11-28 18:24:23,553 - INFO - Moved: note (1).pdf
+2024-11-28 18:24:23,554 - INFO - Moved: note (2).pdf
+2024-11-28 18:24:23,555 - INFO - Moved: note (3).pdf
+2024-11-28 18:24:23,556 - INFO - Moved: note (4).pdf
+2024-11-28 18:24:23,557 - INFO - Moved: note (5).pdf
+2024-11-28 18:24:23,558 - INFO - Moved: note (6).pdf
+2024-11-28 18:24:23,559 - INFO - Moved: note.pdf
+2024-11-28 18:24:23,561 - INFO - Moved: notepad color theme.png
+2024-11-28 18:24:23,562 - INFO - Moved: Notepad Widget (GVTech Hub) - App [ Final ].html
+2024-11-28 18:24:23,563 - INFO - Moved: notes_backup (1).json
+2024-11-28 18:24:23,564 - INFO - Moved: notes_backup (2).json
+2024-11-28 18:24:23,565 - INFO - Moved: notes_backup (3).json
+2024-11-28 18:24:23,566 - INFO - Moved: notes_backup(1).json
+2024-11-28 18:24:23,567 - INFO - Moved: notes_backup.json
+2024-11-28 18:24:23,568 - INFO - Moved: note_1 (1).txt
+2024-11-28 18:24:23,569 - INFO - Moved: note_1 (2).txt
+2024-11-28 18:24:23,571 - INFO - Moved: note_1.txt
+2024-11-28 18:24:23,572 - INFO - Moved: note_3.txt
+2024-11-28 18:24:23,573 - INFO - Moved: obs-ndi-4.13.0-windows-x64-Installer.exe
+2024-11-28 18:24:23,574 - INFO - Moved: obs-ndi-4.13.2-windows-x64-Installer.exe
+2024-11-28 18:24:23,575 - INFO - Moved: OBS-Studio-30.1.2-Full-Installer-x64.exe
+2024-11-28 18:24:23,577 - INFO - Moved: OCT-FY24 - CHARGEBACKS-20241031T134026Z-001
+2024-11-28 18:24:23,579 - INFO - Moved: OCT-FY24 - CHARGEBACKS-20241031T134026Z-001.zip
+2024-11-28 18:24:23,580 - INFO - Moved: Offline_Parts_List.html
+2024-11-28 18:24:23,582 - INFO - Moved: offline_shopping_list_2024-11-04T12-30-01-314Z.html
+2024-11-28 18:24:23,583 - INFO - Moved: offline_shopping_list_2024-11-04T12-41-09-278Z.html
+2024-11-28 18:24:23,584 - INFO - Moved: offline_shopping_list_2024-11-04T12-42-05-138Z.html
+2024-11-28 18:24:23,585 - INFO - Moved: olivier-bergeron-5JSZzMilCVo-unsplash.jpg
+2024-11-28 18:24:23,586 - INFO - Moved: oow.png
+2024-11-28 18:24:23,587 - INFO - Moved: Open Kiosk (Portable)
+2024-11-28 18:24:23,588 - INFO - Moved: OpenKIOSK - Kiosk Browser.zip
+2024-11-28 18:24:23,589 - INFO - Moved: OpenKiosk - READ ME - GVTech Hub.pdf
+2024-11-28 18:24:23,590 - INFO - Moved: OpenKiosk115.12.0-2024-06-25-x86_64 (1).msi
+2024-11-28 18:24:23,593 - INFO - Moved: OpenKiosk115.12.0-2024-06-25-x86_64.msi
+2024-11-28 18:24:23,594 - INFO - Moved: Operational Manual.pdf
+2024-11-28 18:24:23,595 - INFO - Moved: Order Parts (Multi-Site Search)
+2024-11-28 18:24:23,596 - INFO - Moved: Order Parts (Multi-Site Search).zip
+2024-11-28 18:24:23,598 - INFO - Moved: Order Parts (UBIF) (1).png
+2024-11-28 18:24:23,599 - INFO - Moved: Order Parts (UBIF).png
+2024-11-28 18:24:23,600 - INFO - Moved: Order Parts - Screenshot-1.png
+2024-11-28 18:24:23,603 - INFO - Moved: Order Parts - Screenshot-2.png
+2024-11-28 18:24:23,604 - INFO - Moved: Order Parts - Screenshot-3.png
+2024-11-28 18:24:23,605 - INFO - Moved: Order Parts - Screenshot-4.png
+2024-11-28 18:24:23,606 - INFO - Moved: Order Parts - Screenshot-5.png
+2024-11-28 18:24:23,607 - INFO - Moved: Order_Parts_Marquee_Promo_1400x560.png
+2024-11-28 18:24:23,608 - INFO - Moved: Order_Parts_Promo_Tile_440x280.png
+2024-11-28 18:24:23,609 - INFO - Moved: Order_Parts_Resized_Screenshot_1.png
+2024-11-28 18:24:23,610 - INFO - Moved: Order_Parts_Resized_Screenshot_2.png
+2024-11-28 18:24:23,612 - INFO - Moved: Order_Parts_Resized_Screenshot_3.png
+2024-11-28 18:24:23,613 - INFO - Moved: Order_Parts_Resized_Screenshot_4.png
+2024-11-28 18:24:23,614 - INFO - Moved: Order_Parts_Resized_Screenshot_5.png
+2024-11-28 18:24:23,615 - INFO - Moved: OT - SALARY - Screenshot with Charts - overtime_results_2024-11-20 (18).png
+2024-11-28 18:24:23,616 - INFO - Moved: OT - Screenshot with Charts - overtime_results_2024-11-20 (18).png
+2024-11-28 18:24:23,617 - INFO - Moved: out of frame.png
+2024-11-28 18:24:23,618 - INFO - Moved: OverlayPopupExtension.zip
+2024-11-28 18:24:23,619 - INFO - Moved: PapaParse-master
+2024-11-28 18:24:23,620 - INFO - Moved: PapaParse-master.zip
+2024-11-28 18:24:23,622 - INFO - Moved: Part Needing Ordered - Uknown part - 1 metal prong on side vs 2.jpeg
+2024-11-28 18:24:23,623 - INFO - Moved: Part Ordered - Wrong Part.jpeg
+2024-11-28 18:24:23,624 - INFO - Moved: Paul Petty - Discount.png
+2024-11-28 18:24:23,625 - INFO - Moved: Paul Petty.png
+2024-11-28 18:24:23,626 - INFO - Moved: Pay Period 19 - Break Interrupted - Orly Called.png
+2024-11-28 18:24:23,627 - INFO - Moved: Pay Period 19 - Break Interrupted - Orly Messaged Me.png
+2024-11-28 18:24:23,628 - INFO - Moved: Paycheck Calculator - Calculate Hourly Pay _ Gusto.html
+2024-11-28 18:24:23,629 - INFO - Moved: Paycheck Calculator - Calculate Hourly Pay _ Gusto_files
+2024-11-28 18:24:23,630 - INFO - Moved: PaychecksList_2024-10-01_2024-12-31 (1).pdf
+2024-11-28 18:24:23,632 - INFO - Moved: PaychecksList_2024-10-01_2024-12-31.pdf
+2024-11-28 18:24:23,633 - INFO - Moved: Paycheck_2024-11-15.pdf
+2024-11-28 18:24:23,634 - INFO - Moved: paycheck_calculator_screenshot.png
+2024-11-28 18:24:23,635 - INFO - Moved: paystub_backup.json
+2024-11-28 18:24:23,635 - INFO - Moved: paystub_organizer_settings_backup.json
+2024-11-28 18:24:23,636 - INFO - Moved: phonto.PNG
+2024-11-28 18:24:23,637 - INFO - Moved: plutonium.exe
+2024-11-28 18:24:23,638 - INFO - Moved: PortableApps.com_Platform_Setup_29.5.3.paf.exe
+2024-11-28 18:24:23,639 - INFO - Moved: portal.ubif.net_ (1).png
+2024-11-28 18:24:23,640 - INFO - Moved: portal.ubif.net_ (2).png
+2024-11-28 18:24:23,642 - INFO - Moved: portal.ubif.net_ (3).png
+2024-11-28 18:24:23,643 - INFO - Moved: portal.ubif.net_ (4).png
+2024-11-28 18:24:23,644 - INFO - Moved: portal.ubif.net_ (5).png
+2024-11-28 18:24:23,645 - INFO - Moved: portal.ubif.net_ (6).png
+2024-11-28 18:24:23,646 - INFO - Moved: portal.ubif.net_ (7).png
+2024-11-28 18:24:23,647 - INFO - Moved: portal.ubif.net_.png
+2024-11-28 18:24:23,649 - INFO - Moved: POS - GVTech HUB
+2024-11-28 18:24:23,650 - INFO - Moved: POS - GVTech HUB.zip
+2024-11-28 18:24:23,652 - INFO - Moved: Possible Out-of-Scope Repair .png
+2024-11-28 18:24:23,653 - INFO - Moved: Price Calculator Extension
+2024-11-28 18:24:23,654 - INFO - Moved: Price Calculator.html
+2024-11-28 18:24:23,656 - INFO - Moved: Price Sheet Extension
+2024-11-28 18:24:23,658 - INFO - Moved: price-sheets-extension
+2024-11-28 18:24:23,659 - INFO - Moved: PriceSheetOverlayExtension
+2024-11-28 18:24:23,660 - INFO - Moved: PriceSheetOverlayExtension.zip
+2024-11-28 18:24:23,662 - INFO - Moved: PriceSheetWidget_Extension
+2024-11-28 18:24:23,663 - INFO - Moved: PriceSheetWidget_Extension.zip
+2024-11-28 18:24:23,664 - INFO - Moved: Printe Receipt.png
+2024-11-28 18:24:23,665 - INFO - Moved: prompts.csv
+2024-11-28 18:24:23,666 - INFO - Moved: Python script for price sheet extension.py
+2024-11-28 18:24:23,667 - INFO - Moved: python-3.13.0-amd64.exe
+2024-11-28 18:24:23,668 - INFO - Moved: QR_00000-00000000.txt
+2024-11-28 18:24:23,669 - INFO - Moved: QR_Code_00000-00000000 (1).png
+2024-11-28 18:24:23,670 - INFO - Moved: QR_Code_00000-00000000.png
+2024-11-28 18:24:23,672 - INFO - Moved: QR_Code_123456789123.png
+2024-11-28 18:24:23,673 - INFO - Moved: QR_Code_127486-56515165 (1).png
+2024-11-28 18:24:23,674 - INFO - Moved: QR_Code_127486-56515165.png
+2024-11-28 18:24:23,675 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600 (1).err
+2024-11-28 18:24:23,676 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600 (1).exe
+2024-11-28 18:24:23,677 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600.err
+2024-11-28 18:24:23,678 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600.exe
+2024-11-28 18:24:23,679 - INFO - Moved: Receiving Inventory UBIF Distro Purchase.pdf
+2024-11-28 18:24:23,680 - INFO - Moved: red-angry-sad-face-negative-people-emotion-icon-vector-14659112.jpg
+2024-11-28 18:24:23,682 - INFO - Moved: redux-master.zip
+2024-11-28 18:24:23,683 - INFO - Moved: Refund Tracking - Completing Forms For Review.png
+2024-11-28 18:24:23,684 - INFO - Moved: Repair Appointments Not Set.png
+2024-11-28 18:24:23,685 - INFO - Moved: Repair Appointments.png
+2024-11-28 18:24:23,686 - INFO - Moved: Repair Queue - 46 down to 19 (1).png
+2024-11-28 18:24:23,687 - INFO - Moved: Repair Queue - 46 down to 19.png
+2024-11-28 18:24:23,688 - INFO - Moved: repair-price-calculator (1).png
+2024-11-28 18:24:23,689 - INFO - Moved: repair-price-calculator (2).png
+2024-11-28 18:24:23,689 - INFO - Moved: repair-price-calculator (3).png
+2024-11-28 18:24:23,690 - INFO - Moved: repair-price-calculator (4).png
+2024-11-28 18:24:23,692 - INFO - Moved: repair-price-calculator (5).png
+2024-11-28 18:24:23,693 - INFO - Moved: repair-price-calculator (6).png
+2024-11-28 18:24:23,695 - INFO - Moved: repair-price-calculator.png
+2024-11-28 18:24:23,696 - INFO - Moved: Resuming Suspended Work Orders - Quotes ( POS ).pdf
+2024-11-28 18:24:23,696 - INFO - Moved: Revenue Made on Sunday (1).png
+2024-11-28 18:24:23,697 - INFO - Moved: Revenue Made on Sunday.png
+2024-11-28 18:24:23,698 - INFO - Moved: Revenue to Goal.png
+2024-11-28 18:24:23,699 - INFO - Moved: review.pdf
+2024-11-28 18:24:23,699 - INFO - Moved: Sales Lead Interview Packet.pdf
+2024-11-28 18:24:23,700 - INFO - Moved: Samsung Level S2 Submission Guide.pdf
+2024-11-28 18:24:23,702 - INFO - Moved: Samsung US MSRP Price Sheet (New).xlsx
+2024-11-28 18:24:23,703 - INFO - Moved: Screenshot 2024-08-09 235859.png
+2024-11-28 18:24:23,704 - INFO - Moved: Screenshot 2024-08-10 001437.png
+2024-11-28 18:24:23,705 - INFO - Moved: September - Week-1 - UBIF Schedule 1.png
+2024-11-28 18:24:23,706 - INFO - Moved: September - Week-2 - UBIF Schedule 1.png
+2024-11-28 18:24:23,707 - INFO - Moved: September - Week-3 - UBIF Schedule 1.png
+2024-11-28 18:24:23,708 - INFO - Moved: Set Password - Rename File (1).txt
+2024-11-28 18:24:23,709 - INFO - Moved: Set Password - Rename File (2).txt
+2024-11-28 18:24:23,710 - INFO - Moved: Set Password - Rename File (3).txt
+2024-11-28 18:24:23,712 - INFO - Moved: Set Password - Rename File.txt
+2024-11-28 18:24:23,713 - INFO - Moved: Set-password-for-your-browser-chrome-lock-Chrome-Web-Store.zip
+2024-11-28 18:24:23,714 - INFO - Moved: shared image.jfif
+2024-11-28 18:24:23,715 - INFO - Moved: sheetjs-github
+2024-11-28 18:24:23,716 - INFO - Moved: sheetjs-github (1)
+2024-11-28 18:24:23,717 - INFO - Moved: sheetjs-github (1).zip
+2024-11-28 18:24:23,718 - INFO - Moved: sheetjs-github.zip
+2024-11-28 18:24:23,719 - INFO - Moved: shopping_list_2024-11-04T12-30-13-889Z.csv
+2024-11-28 18:24:23,720 - INFO - Moved: shopping_list_2024-11-04T12-42-02-260Z.csv
+2024-11-28 18:24:23,722 - INFO - Moved: shopping_list_2024-11-04T12-42-04-273Z.txt
+2024-11-28 18:24:23,723 - INFO - Moved: shortcutkeys.json
+2024-11-28 18:24:23,725 - INFO - Moved: single-file-export-chat-main
+2024-11-28 18:24:23,725 - INFO - Moved: single-file-export-chat-main.zip
+2024-11-28 18:24:23,726 - INFO - Moved: sites.google.com_view_gvtechhub (1).png
+2024-11-28 18:24:23,727 - INFO - Moved: sites.google.com_view_gvtechhub.png
+2024-11-28 18:24:23,729 - INFO - Moved: Smart Text Expander
+2024-11-28 18:24:23,731 - INFO - Moved: Smart Text Expander (Windows App)
+2024-11-28 18:24:23,732 - INFO - Moved: Smart Text Expander (Windows App).zip
+2024-11-28 18:24:23,733 - INFO - Moved: Smart Text Expander.zip
+2024-11-28 18:24:23,734 - INFO - Moved: SmartDefragPortable_9.4.0.342.paf.exe
+2024-11-28 18:24:23,735 - INFO - Moved: Soldering Equipment.png
+2024-11-28 18:24:23,736 - INFO - Moved: speed-dial-2-export-2024-07-28 (1).json
+2024-11-28 18:24:23,737 - INFO - Moved: speed-dial-2-export-2024-07-28.json
+2024-11-28 18:24:23,738 - INFO - Moved: Staff Login Process-Page-2.drawio.png
+2024-11-28 18:24:23,739 - INFO - Moved: Star System Descriptiuon.png
+2024-11-28 18:24:23,740 - INFO - Moved: SteamSetup.exe
+2024-11-28 18:24:23,742 - INFO - Moved: Store Device Repair Storage System - UBIF - Store 881 Envision.png
+2024-11-28 18:24:23,743 - INFO - Moved: Store Management SOP.pdf
+2024-11-28 18:24:23,745 - INFO - Moved: store-operations-dashboard
+2024-11-28 18:24:23,745 - INFO - Moved: store-operations-dashboard.zip
+2024-11-28 18:24:23,746 - INFO - Moved: Streamlabs+Desktop+Setup+1.16.7-VG2kSlB8uFnyHCC.exe
+2024-11-28 18:24:23,747 - INFO - Moved: tabExtend_data_20240804 (1).json
+2024-11-28 18:24:23,748 - INFO - Moved: tabExtend_data_20240804.json
+2024-11-28 18:24:23,750 - INFO - Moved: Tartarus - Iron Claw Mouse (KeyBinds)
+2024-11-28 18:24:23,752 - INFO - Moved: temp (1).crx
+2024-11-28 18:24:23,753 - INFO - Moved: temp.crx
+2024-11-28 18:24:23,754 - INFO - Moved: The Price Sheet (New).xlsx
+2024-11-28 18:24:23,756 - INFO - Moved: The Price Sheet Overlay
+2024-11-28 18:24:23,757 - INFO - Moved: The Price Sheet Overlay.zip
+2024-11-28 18:24:23,758 - INFO - Moved: this.png
+2024-11-28 18:24:23,759 - INFO - Moved: TikTok Bot Pro v3.5.6 Full Activated - WwW.Dr-FarFar.CoM.zip
+2024-11-28 18:24:23,760 - INFO - Moved: tiktok_live_studio-v0.59.0-win32-x64.exe
+2024-11-28 18:24:23,763 - INFO - Moved: timeclock-payroll-totals_overview_2024-09-30_2024-10-29.xlsx
+2024-11-28 18:24:23,764 - INFO - Moved: Timesheet 10-01-24.png
+2024-11-28 18:24:23,765 - INFO - Moved: To Do Organization.png
+2024-11-28 18:24:23,765 - INFO - Moved: Todays closed out sales.png
+2024-11-28 18:24:23,766 - INFO - Moved: triggers (1).csv
+2024-11-28 18:24:23,767 - INFO - Moved: triggers (2).csv
+2024-11-28 18:24:23,768 - INFO - Moved: triggers (3).csv
+2024-11-28 18:24:23,769 - INFO - Moved: triggers (4).csv
+2024-11-28 18:24:23,770 - INFO - Moved: triggers (5).csv
+2024-11-28 18:24:23,772 - INFO - Moved: triggers (6).csv
+2024-11-28 18:24:23,773 - INFO - Moved: triggers (7).csv
+2024-11-28 18:24:23,774 - INFO - Moved: triggers (8).csv
+2024-11-28 18:24:23,775 - INFO - Moved: triggers (9).csv
+2024-11-28 18:24:23,776 - INFO - Moved: triggers.csv
+2024-11-28 18:24:23,777 - INFO - Moved: ttsetup.exe
+2024-11-28 18:24:23,778 - INFO - Moved: TurboTop - Always On.exe
+2024-11-28 18:24:23,779 - INFO - Moved: UBIF #881 - 3 Stage - Device Repair Process.pdf
+2024-11-28 18:24:23,780 - INFO - Moved: UBIF #881 - Daily Checklist (List) (1).pdf
+2024-11-28 18:24:23,782 - INFO - Moved: UBIF #881 - Daily Checklist (List).pdf
+2024-11-28 18:24:23,783 - INFO - Moved: UBIF #881 - Finding an Insurance Claim or In-Warranty Lead ( POS ).pdf
+2024-11-28 18:24:23,784 - INFO - Moved: UBIF #881 - Logging into POS.pdf
+2024-11-28 18:24:23,784 - INFO - Moved: UBIF #881 - Processing Buy Backs.pdf
+2024-11-28 18:24:23,785 - INFO - Moved: UBIF #881 - Receiving Inventory UBIF Distro Purchase.pdf
+2024-11-28 18:24:23,786 - INFO - Moved: UBIF #881 - Resuming Suspended Work Orders - Quotes ( POS ).pdf
+2024-11-28 18:24:23,787 - INFO - Moved: UBIF - iphone screen under 10 minutes (1).png
+2024-11-28 18:24:23,787 - INFO - Moved: UBIF - iphone screen under 10 minutes.png
+2024-11-28 18:24:23,788 - INFO - Moved: UBIF - Logo.jfif
+2024-11-28 18:24:23,789 - INFO - Moved: UBIF - Submitting Galaxy Diagnostic Tool.pdf
+2024-11-28 18:24:23,790 - INFO - Moved: UBIF - Technician Candidate Interview.pdf
+2024-11-28 18:24:23,792 - INFO - Moved: UBIF - Week-1 - Payroll Timesheet - August 1.png
+2024-11-28 18:24:23,793 - INFO - Moved: UBIF - Week-2 - Payroll Timesheet - August 1.png
+2024-11-28 18:24:23,794 - INFO - Moved: UBIF 881 - Processing Buy Backs.pdf
+2024-11-28 18:24:23,795 - INFO - Moved: UBIF Contacts.vcf
+2024-11-28 18:24:23,796 - INFO - Moved: UBIF Logo 2.png
+2024-11-28 18:24:23,797 - INFO - Moved: UBIF Logo.png
+2024-11-28 18:24:23,798 - INFO - Moved: uBreakiFix - Overtime Hours - Unpaid - Salary Started - 10-14-24 - 45kyr (1).pdf
+2024-11-28 18:24:23,799 - INFO - Moved: uBreakiFix - Overtime Hours - Unpaid - Salary Started - 10-14-24 - 45kyr.pdf
+2024-11-28 18:24:23,800 - INFO - Moved: uBreakiFix Portal.html
+2024-11-28 18:24:23,803 - INFO - Moved: uBreakiFix Portal_files
+2024-11-28 18:24:23,804 - INFO - Moved: UBREAKIFIX-master
+2024-11-28 18:24:23,805 - INFO - Moved: UBREAKIFIX-master.zip
+2024-11-28 18:24:23,807 - INFO - Moved: ubreakifix.github.io-master
+2024-11-28 18:24:23,808 - INFO - Moved: ubreakifix.github.io-master.zip
+2024-11-28 18:24:23,809 - INFO - Moved: ufoInstall.msi
+2024-11-28 18:24:23,810 - INFO - Moved: Unique_Parts.csv
+2024-11-28 18:24:23,812 - INFO - Moved: upcoming-chargebacks
+2024-11-28 18:24:23,813 - INFO - Moved: upcoming-chargebacks (1)
+2024-11-28 18:24:23,814 - INFO - Moved: upcoming-chargebacks (1).zip
+2024-11-28 18:24:23,815 - INFO - Moved: upcoming-chargebacks.zip
+2024-11-28 18:24:23,816 - INFO - Moved: UPC_123456789123 (1).png
+2024-11-28 18:24:23,817 - INFO - Moved: UPC_123456789123.png
+2024-11-28 18:24:23,817 - INFO - Moved: Update GSPN - Level S2+ Certificate Renewal Email.pdf
+2024-11-28 18:24:23,819 - INFO - Moved: updated_chrome_extension
+2024-11-28 18:24:23,819 - INFO - Moved: updated_chrome_extension.zip
+2024-11-28 18:24:23,820 - INFO - Moved: Update_GSPN___Level_S2__Certificate_Renewal_Email.pdf_1e179152-66f7-4abb-a4de-971ec86f876b.pdf
+2024-11-28 18:24:23,822 - INFO - Moved: user-normal.png
+2024-11-28 18:24:23,824 - INFO - Moved: Visual-C-Runtimes-All-in-One-May-2024
+2024-11-28 18:24:23,825 - INFO - Moved: Visual-C-Runtimes-All-in-One-May-2024.zip
+2024-11-28 18:24:23,826 - INFO - Moved: VoicemodSetup_2.48.4.0.exe
+2024-11-28 18:24:23,827 - INFO - Moved: Volume_Master (2).crx
+2024-11-28 18:24:23,828 - INFO - Moved: Walmart (1).jfif
+2024-11-28 18:24:23,829 - INFO - Moved: Walmart Ordre 10-05-24.png
+2024-11-28 18:24:23,830 - INFO - Moved: Walmart Purchase - 8-30-24.png
+2024-11-28 18:24:23,832 - INFO - Moved: Walmart Receipt.png
+2024-11-28 18:24:23,833 - INFO - Moved: Walmart.jfif
+2024-11-28 18:24:24,142 - INFO - Moved: web_lock_extension
+2024-11-28 18:24:24,143 - INFO - Moved: web_lock_extension.zip
+2024-11-28 18:24:24,145 - INFO - Moved: web_lock_extension_unpacked
+2024-11-28 18:24:24,147 - INFO - Moved: WindowsPCHealthCheckSetup (1).msi
+2024-11-28 18:24:24,148 - INFO - Moved: WindowsPCHealthCheckSetup.msi
+2024-11-28 18:24:24,149 - INFO - Moved: Windows_MediaFeaturePack_x64_1903_V1.msu
+2024-11-28 18:24:24,150 - INFO - Moved: winrar-x64-701.exe
+2024-11-28 18:24:24,153 - INFO - Moved: Work Order Lookup Extension
+2024-11-28 18:24:24,154 - INFO - Moved: Work Order Workflow Timeframe Expectations.png
+2024-11-28 18:24:24,155 - INFO - Moved: XHALE CITY - ITEMIZED RECEIPT.txt
+2024-11-28 18:24:24,157 - INFO - Moved: xhale city - receipt.pdf
+2024-11-28 18:24:24,159 - INFO - Moved: XSplit_VCam_4.2.2402.0901.exe
+2024-11-28 18:24:24,160 - INFO - Moved: Your-Keyless-Entry-Remote-Order-Confirmation-368858.pdf
+2024-11-28 18:24:24,162 - INFO - Moved: Your-Keyless-Entry-Remote-Order-Confirmation.pdf
+2024-11-28 18:24:24,164 - INFO - Moved: [Guru3D.com]-DDU.zip
+2024-11-28 18:24:24,165 - INFO - Moved: [SVC-09] IMEI Cloud guide for Service Center user_Rev1.0.pdf
+2024-11-28 18:24:24,166 - INFO - Moved: _GVTech_Hub_18378113.apk
+2024-11-28 18:24:24,186 - INFO - Moved: {autopf}
+2024-11-28 18:24:24,372 - INFO - 
+=== Organization Statistics ===
+2024-11-28 18:24:24,372 - INFO - Files moved: 503
+2024-11-28 18:24:24,373 - INFO - Space cleared: 5711.66 MB
+2024-11-28 18:24:24,373 - INFO - Errors encountered: 0
+2024-11-28 18:24:24,374 - INFO - ===========================
+2024-11-28 18:24:24,374 - INFO - Organization complete!
+2024-11-28 18:25:18,892 - INFO - Initializing File Organizer...
+2024-11-28 18:25:18,935 - INFO - Detected OS: Windows
+2024-11-28 18:25:18,935 - INFO - Configuration loaded successfully
+2024-11-28 18:25:18,936 - ERROR - No valid Desktop path found
+2024-11-28 18:25:18,936 - INFO - Found regular Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:25:18,936 - INFO - Found Registry Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:25:18,936 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:25:18,937 - ERROR - Failed to get Desktop path
+2024-11-28 18:25:18,937 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:25:18,937 - INFO - Initialization complete
+2024-11-28 18:25:19,946 - INFO - Starting organization process...
+2024-11-28 18:25:19,946 - ERROR - Skipping Desktop organization - path not available
+2024-11-28 18:25:19,946 - INFO - Organizing Downloads...
+2024-11-28 18:25:19,947 - INFO - No files to organize in C:\Users\domok\Downloads
+2024-11-28 18:25:19,947 - INFO - 
+=== Organization Statistics ===
+2024-11-28 18:25:19,947 - INFO - Files moved: 0
+2024-11-28 18:25:19,947 - INFO - Space cleared: 0.00 MB
+2024-11-28 18:25:19,947 - INFO - Errors encountered: 0
+2024-11-28 18:25:19,947 - INFO - ===========================
+2024-11-28 18:25:19,948 - INFO - Organization complete!
+2024-11-28 18:27:24,430 - INFO - Initializing File Organizer...
+2024-11-28 18:27:24,515 - INFO - Detected OS: Windows
+2024-11-28 18:27:24,516 - INFO - Configuration loaded successfully
+2024-11-28 18:27:24,520 - INFO - Found Shell API Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:27:24,520 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:27:24,520 - INFO - Found regular Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:27:24,521 - INFO - Found Registry Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:27:24,521 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:27:24,521 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:27:24,521 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:27:24,521 - INFO - Initialization complete
+2024-11-28 18:27:25,523 - INFO - Starting organization process...
+2024-11-28 18:27:25,523 - INFO - Organizing Desktop...
+2024-11-28 18:27:25,524 - INFO - Created archive folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive
+2024-11-28 18:27:25,527 - INFO - Created dated subfolder: Nov-28-2024_06-27PM
+2024-11-28 18:27:25,534 - INFO - Moved: -------------CODING CANVAS------------
+2024-11-28 18:27:25,536 - INFO - Moved: afterpay amazon purchase not purchased.png
+2024-11-28 18:27:25,537 - INFO - Moved: Amazon return label.pdf
+2024-11-28 18:27:25,537 - INFO - Moved: Cursor.lnk
+2024-11-28 18:27:25,540 - INFO - Moved: Dell Diagnostic Tool (UBIF)
+2024-11-28 18:27:25,541 - INFO - Moved: Draft PROJECT
+2024-11-28 18:27:25,542 - INFO - Moved: draw.io.lnk
+2024-11-28 18:27:25,543 - INFO - Moved: Example of a sample trigger set and the main screen layout.png
+2024-11-28 18:27:25,544 - INFO - Moved: HDClone.lnk
+2024-11-28 18:27:25,545 - INFO - Moved: IMEI Lookup - Statuses and Their Results.txt
+2024-11-28 18:27:25,546 - INFO - Moved: KayWat with the T as a cross.png
+2024-11-28 18:27:25,548 - INFO - Moved: Mouse Without Borders
+2024-11-28 18:27:25,549 - INFO - Moved: MouseWithoutBorders
+2024-11-28 18:27:25,550 - INFO - Moved: Notepad _ Write your notes online.html
+2024-11-28 18:27:25,553 - INFO - Moved: Notepad _ Write your notes online_files
+2024-11-28 18:27:25,554 - INFO - Moved: OpenKIOSK - Chrom Extensions
+2024-11-28 18:27:25,556 - INFO - Moved: Price Calculator Extension
+2024-11-28 18:27:25,729 - INFO - Moved: Project Python
+2024-11-28 18:27:25,730 - INFO - Moved: Project Python.zip
+2024-11-28 18:27:25,731 - INFO - Moved: RUN ANDOID APPS ON WINDOWS 10 NATIVE.html
+2024-11-28 18:27:25,734 - INFO - Moved: RUN ANDOID APPS ON WINDOWS 10 NATIVE_files
+2024-11-28 18:27:25,735 - INFO - Moved: Settings Menu.png
+2024-11-28 18:27:25,736 - INFO - Moved: Smart Text Expander.bat
+2024-11-28 18:27:25,737 - INFO - Moved: Smart Text Expander.bat - Shortcut.lnk
+2024-11-28 18:27:25,738 - INFO - Moved: Team Chat
+2024-11-28 18:27:25,739 - INFO - Moved: Team Chat.css
+2024-11-28 18:27:25,741 - INFO - Moved: Team Chat.zip
+2024-11-28 18:27:25,743 - INFO - Moved: UBIF - Chrome Extensions
+2024-11-28 18:27:25,745 - INFO - Moved: uBreakiFix Portal.html
+2024-11-28 18:27:25,749 - INFO - Moved: uBreakiFix Portal_files
+2024-11-28 18:27:25,751 - INFO - Moved: uBreakiFix Website
+2024-11-28 18:27:25,753 - INFO - Moved: Work Order Lookup Extension
+2024-11-28 18:27:25,753 - INFO - Organizing Downloads...
+2024-11-28 18:27:25,754 - INFO - No files to organize in C:\Users\domok\Downloads
+2024-11-28 18:27:25,754 - INFO - 
+=== Organization Statistics ===
+2024-11-28 18:27:25,754 - INFO - Files moved: 32
+2024-11-28 18:27:25,754 - INFO - Space cleared: 5.38 MB
+2024-11-28 18:27:25,755 - INFO - Errors encountered: 0
+2024-11-28 18:27:25,755 - INFO - ===========================
+2024-11-28 18:27:25,755 - INFO - Organization complete!
+2024-11-28 18:29:55,440 - INFO - Initializing File Organizer...
+2024-11-28 18:29:55,524 - INFO - Detected OS: Windows
+2024-11-28 18:29:55,525 - INFO - Configuration loaded successfully
+2024-11-28 18:29:55,529 - INFO - Found Shell API Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:29:55,530 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:29:55,531 - INFO - Found regular Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:29:55,531 - INFO - Found Registry Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:29:55,531 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:29:55,531 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:29:55,531 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:29:55,531 - INFO - Initialization complete
+2024-11-28 18:29:56,412 - INFO - Starting organization process...
+2024-11-28 18:29:56,412 - INFO - Organizing Desktop...
+2024-11-28 18:29:56,413 - INFO - No files to organize in C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:29:56,413 - INFO - Organizing Downloads...
+2024-11-28 18:29:56,413 - INFO - No files to organize in C:\Users\domok\Downloads
+2024-11-28 18:29:56,414 - INFO - 
+=== Organization Statistics ===
+2024-11-28 18:29:56,414 - INFO - Files moved: 0
+2024-11-28 18:29:56,414 - INFO - Space cleared: 0.00 MB
+2024-11-28 18:29:56,414 - INFO - Errors encountered: 0
+2024-11-28 18:29:56,414 - INFO - ===========================
+2024-11-28 18:29:56,415 - INFO - Organization complete!
+2024-11-28 18:30:35,316 - INFO - Initializing File Organizer...
+2024-11-28 18:30:35,354 - INFO - Detected OS: Windows
+2024-11-28 18:30:35,355 - INFO - Configuration loaded successfully
+2024-11-28 18:30:35,359 - INFO - Found Shell API Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:30:35,360 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:30:35,360 - INFO - Found regular Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:30:35,360 - INFO - Found Registry Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:30:35,360 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:30:35,360 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:30:35,361 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:30:35,361 - INFO - Initialization complete
+2024-11-28 18:30:36,306 - INFO - Starting organization process...
+2024-11-28 18:30:36,306 - INFO - Organizing Desktop...
+2024-11-28 18:30:36,307 - INFO - Created archive folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive
+2024-11-28 18:30:36,311 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Documents
+2024-11-28 18:30:36,312 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Images
+2024-11-28 18:30:36,313 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Audio
+2024-11-28 18:30:36,314 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Video
+2024-11-28 18:30:36,314 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Archives
+2024-11-28 18:30:36,316 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Code
+2024-11-28 18:30:36,318 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Executables
+2024-11-28 18:30:36,319 - INFO - Set color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-30PM\Others
+2024-11-28 18:30:36,319 - INFO - Skipping folder: -------------CODING CANVAS------------
+2024-11-28 18:30:36,320 - INFO - Moved: afterpay amazon purchase not purchased.png
+2024-11-28 18:30:36,321 - INFO - Moved: Amazon return label.pdf
+2024-11-28 18:30:36,322 - INFO - Moved: Cursor.lnk
+2024-11-28 18:30:36,322 - INFO - Skipping folder: Dell Diagnostic Tool (UBIF)
+2024-11-28 18:30:36,323 - INFO - Skipping folder: Draft PROJECT
+2024-11-28 18:30:36,326 - INFO - Moved: draw.io.lnk
+2024-11-28 18:30:36,329 - INFO - Moved: Example of a sample trigger set and the main screen layout.png
+2024-11-28 18:30:36,329 - INFO - Moved: HDClone.lnk
+2024-11-28 18:30:36,330 - INFO - Moved: IMEI Lookup - Statuses and Their Results.txt
+2024-11-28 18:30:36,331 - INFO - Moved: KayWat with the T as a cross.png
+2024-11-28 18:30:36,331 - INFO - Skipping folder: Mouse Without Borders
+2024-11-28 18:30:36,331 - INFO - Skipping folder: MouseWithoutBorders
+2024-11-28 18:30:36,332 - INFO - Moved: Notepad _ Write your notes online.html
+2024-11-28 18:30:36,333 - INFO - Skipping folder: Notepad _ Write your notes online_files
+2024-11-28 18:30:36,333 - INFO - Skipping folder: OpenKIOSK - Chrom Extensions
+2024-11-28 18:30:36,333 - INFO - Skipping folder: Price Calculator Extension
+2024-11-28 18:30:36,334 - INFO - Skipping folder: Project Python
+2024-11-28 18:30:36,335 - INFO - Moved: Project Python.zip
+2024-11-28 18:30:36,335 - INFO - Moved: RUN ANDOID APPS ON WINDOWS 10 NATIVE.html
+2024-11-28 18:30:36,335 - INFO - Skipping folder: RUN ANDOID APPS ON WINDOWS 10 NATIVE_files
+2024-11-28 18:30:36,337 - INFO - Moved: Settings Menu.png
+2024-11-28 18:30:36,340 - INFO - Moved: Smart Text Expander.bat
+2024-11-28 18:30:36,342 - INFO - Moved: Smart Text Expander.bat - Shortcut.lnk
+2024-11-28 18:30:36,342 - INFO - Skipping folder: Team Chat
+2024-11-28 18:30:36,343 - INFO - Moved: Team Chat.css
+2024-11-28 18:30:36,344 - INFO - Moved: Team Chat.zip
+2024-11-28 18:30:36,344 - INFO - Skipping folder: UBIF - Chrome Extensions
+2024-11-28 18:30:36,345 - INFO - Moved: uBreakiFix Portal.html
+2024-11-28 18:30:36,345 - INFO - Skipping folder: uBreakiFix Portal_files
+2024-11-28 18:30:36,345 - INFO - Skipping folder: uBreakiFix Website
+2024-11-28 18:30:36,346 - INFO - Skipping folder: Work Order Lookup Extension
+2024-11-28 18:30:36,346 - INFO - Organizing Downloads...
+2024-11-28 18:30:36,347 - INFO - Created archive folder: C:\Users\domok\Downloads\Archive
+2024-11-28 18:30:36,382 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Documents
+2024-11-28 18:30:36,383 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Images
+2024-11-28 18:30:36,384 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Audio
+2024-11-28 18:30:36,385 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Video
+2024-11-28 18:30:36,386 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Archives
+2024-11-28 18:30:36,387 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Code
+2024-11-28 18:30:36,388 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Executables
+2024-11-28 18:30:36,390 - INFO - Set color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-30PM\Others
+2024-11-28 18:30:36,391 - INFO - Moved: 10_29_2024_881_consigned_part_adjustments(duplicate).csv
+2024-11-28 18:30:36,392 - INFO - Moved: 10_29_2024_881_consigned_part_adjustments(in).csv
+2024-11-28 18:30:36,393 - INFO - Skipping folder: 1186652-f630a1a8b7443518957f079f3fda3a01ad67e915
+2024-11-28 18:30:36,394 - INFO - Moved: 1186652-f630a1a8b7443518957f079f3fda3a01ad67e915.zip
+2024-11-28 18:30:36,395 - INFO - Moved: 11_04_2024_881_upcoming_consignment_charges.csv
+2024-11-28 18:30:36,395 - INFO - Moved: 11_04_2024_881_upcoming_consignment_charges_adjustments.csv
+2024-11-28 18:30:36,396 - INFO - Moved: 128.png
+2024-11-28 18:30:36,397 - INFO - Moved: 15 Day Work Order Closure Policy.png
+2024-11-28 18:30:36,397 - INFO - Moved: 159e9838-7cf4-4b19-a513-4d8df98416dd_881_-_Active_Repairs.pdf
+2024-11-28 18:30:36,398 - INFO - Moved: 16.png
+2024-11-28 18:30:36,399 - INFO - Moved: 16957794745.htm
+2024-11-28 18:30:36,399 - INFO - Moved: 2.jpg
+2024-11-28 18:30:36,400 - INFO - Moved: 251a97d6f086c784a5f7263c1af92239_compressed.jpg
+2024-11-28 18:30:36,401 - INFO - Moved: 3 Stage - Device Repair Process_  - Sheet1 (1).pdf
+2024-11-28 18:30:36,401 - INFO - Moved: 3 Stage - Device Repair Process_  - Sheet1.pdf
+2024-11-28 18:30:36,404 - INFO - Moved: 3 Stage - Device Repair Process_ .xlsx
+2024-11-28 18:30:36,405 - INFO - Moved: 3220d405-08dc-48c3-b9c2-0ac4eb035ce7
+2024-11-28 18:30:36,406 - INFO - Moved: 4 Employee Expectations 3.pdf
+2024-11-28 18:30:36,407 - INFO - Moved: 48.png
+2024-11-28 18:30:36,408 - INFO - Moved: 4ktokkit_2.7.3_x64_online.exe
+2024-11-28 18:30:36,408 - INFO - Skipping folder: 881 UBIF-Chrome Extension (1)
+2024-11-28 18:30:36,409 - INFO - Moved: 881 UBIF-Chrome Extension.zip
+2024-11-28 18:30:36,410 - INFO - Moved: 91188503-e56b-4805-8ce8-ccc27b7722b8_Daily_Checklist_(List).pdf
+2024-11-28 18:30:36,410 - INFO - Moved: 940b7f5f-6751-49f8-909e-ea57b12f3c7f_Daily_Checklist_(List).pdf
+2024-11-28 18:30:36,411 - INFO - Moved: 9ff3c200-d472-4739-bcf6-0192456cddf3_881_-_Active_Repairs.pdf
+2024-11-28 18:30:36,414 - INFO - Moved: active-updates-overview.xls
+2024-11-28 18:30:36,414 - INFO - Moved: Adding a Google Review QR code to your receipts.pdf
+2024-11-28 18:30:36,415 - INFO - Moved: afterplay.io_play_recently-added.png
+2024-11-28 18:30:36,415 - INFO - Skipping folder: ai_multifunctional_tool_extension
+2024-11-28 18:30:36,416 - INFO - Moved: ai_multifunctional_tool_extension.zip
+2024-11-28 18:30:36,417 - INFO - Moved: alexander-shatov-I4p0FcjDBJI-unsplash.jpg
+2024-11-28 18:30:36,418 - INFO - Moved: amd-software-adrenalin-edition-24.6.1-minimalsetup-240626_web.exe
+2024-11-28 18:30:36,418 - INFO - Moved: AnyDesk.exe
+2024-11-28 18:30:36,419 - INFO - Skipping folder: apk_loader_extension
+2024-11-28 18:30:36,420 - INFO - Moved: apk_loader_extension.zip
+2024-11-28 18:30:36,421 - INFO - Moved: Apple SKU List.numbers
+2024-11-28 18:30:36,421 - INFO - Skipping folder: Appointment System (Appointy Replica)
+2024-11-28 18:30:36,422 - INFO - Moved: Appointment System (Appointy Replica).zip
+2024-11-28 18:30:36,425 - INFO - Moved: Appointment System (Offline Version).html
+2024-11-28 18:30:36,425 - INFO - Skipping folder: appointment-extension
+2024-11-28 18:30:36,425 - INFO - Skipping folder: appointment-system
+2024-11-28 18:30:36,426 - INFO - Moved: appointment-system.zip
+2024-11-28 18:30:36,427 - INFO - Skipping folder: August - September (Updated Schedule)
+2024-11-28 18:30:36,428 - INFO - Moved: August - Week-2 - UBIF Schedule 1.png
+2024-11-28 18:30:36,428 - INFO - Moved: August - Week-3 - UBIF Schedule 1.png
+2024-11-28 18:30:36,429 - INFO - Moved: August - Week-4 - UBIF Schedule 1.png
+2024-11-28 18:30:36,430 - INFO - Moved: Avery - Tardiness and Extended Breaks - 5-25-24.pdf
+2024-11-28 18:30:36,430 - INFO - Moved: BARCODE_00000-00000000.png
+2024-11-28 18:30:36,431 - INFO - Moved: BARCODE_123456789123.png
+2024-11-28 18:30:36,432 - INFO - Moved: BARCODE_127486-56515165.png
+2024-11-28 18:30:36,432 - INFO - Moved: Battle.net-Setup.exe
+2024-11-28 18:30:36,435 - INFO - Moved: BBY Interview Packet.pdf
+2024-11-28 18:30:36,436 - INFO - Moved: Best Buy Receipt.png
+2024-11-28 18:30:36,436 - INFO - Moved: better layout.png
+2024-11-28 18:30:36,437 - INFO - Moved: blue notepad title and blue line next to write note here but on left side of page.png
+2024-11-28 18:30:36,438 - INFO - Moved: BlueStacksFullInstaller_5.21.600.1019_amd64_native.exe
+2024-11-28 18:30:36,438 - INFO - Moved: Bluetooth Headset.png
+2024-11-28 18:30:36,439 - INFO - Moved: bookmarks (1).html
+2024-11-28 18:30:36,440 - INFO - Moved: bookmarks (2).html
+2024-11-28 18:30:36,441 - INFO - Moved: bookmarks.html
+2024-11-28 18:30:36,442 - INFO - Moved: bookmarks_10_27_24.html
+2024-11-28 18:30:36,443 - INFO - Moved: Brian's Queue List - UBIF.png
+2024-11-28 18:30:36,445 - INFO - Moved: Car Maintenance Cheatsheet.jpg
+2024-11-28 18:30:36,446 - INFO - Moved: ccsetup625.exe
+2024-11-28 18:30:36,446 - INFO - Moved: ccsetup629.zip
+2024-11-28 18:30:36,447 - INFO - Moved: ceo@kaywat.me - Spotify Premium - Key.pdf
+2024-11-28 18:30:36,448 - INFO - Moved: change-maker-screenshot (1).png
+2024-11-28 18:30:36,448 - INFO - Moved: change-maker-screenshot.png
+2024-11-28 18:30:36,449 - INFO - Moved: Chargeback Calendar (Offline).zip
+2024-11-28 18:30:36,450 - INFO - Moved: Chargeback DupFinder.zip
+2024-11-28 18:30:36,450 - INFO - Moved: ChatGPT Note - UBIF Extension.txt
+2024-11-28 18:30:36,451 - INFO - Moved: Check In IMEI Doesnt Match Lead-How To.pdf
+2024-11-28 18:30:36,452 - INFO - Moved: CHIME_5.0.9.apk
+2024-11-28 18:30:36,453 - INFO - Moved: Chris Loetz Resume (1).pdf
+2024-11-28 18:30:36,455 - INFO - Moved: Chrome Extension Builder Python Script.py
+2024-11-28 18:30:36,455 - INFO - Skipping folder: chrome-lock
+2024-11-28 18:30:36,456 - INFO - Moved: chrome-lock - (icons).zip
+2024-11-28 18:30:36,457 - INFO - Moved: chrome-lock.zip
+2024-11-28 18:30:36,458 - INFO - Moved: ChromeSetup.exe
+2024-11-28 18:30:36,458 - INFO - Skipping folder: chrome_extension (1)
+2024-11-28 18:30:36,459 - INFO - Moved: chrome_extension (1).zip
+2024-11-28 18:30:36,460 - INFO - Moved: chrome_extension.zip
+2024-11-28 18:30:36,461 - INFO - Moved: CODE128_12 (1).png
+2024-11-28 18:30:36,461 - INFO - Moved: CODE128_12.png
+2024-11-28 18:30:36,462 - INFO - Moved: CODE128_123456789123.png
+2024-11-28 18:30:36,464 - INFO - Moved: code_image (1).png
+2024-11-28 18:30:36,465 - INFO - Moved: code_image (2).png
+2024-11-28 18:30:36,466 - INFO - Moved: code_image (3).png
+2024-11-28 18:30:36,467 - INFO - Moved: code_image (4).png
+2024-11-28 18:30:36,468 - INFO - Moved: code_image (5).png
+2024-11-28 18:30:36,468 - INFO - Moved: code_image (6).png
+2024-11-28 18:30:36,469 - INFO - Moved: code_image (7).png
+2024-11-28 18:30:36,470 - INFO - Moved: code_image (8).png
+2024-11-28 18:30:36,470 - INFO - Moved: code_image (9).png
+2024-11-28 18:30:36,471 - INFO - Moved: code_image(1).png
+2024-11-28 18:30:36,473 - INFO - Moved: code_image.png
+2024-11-28 18:30:36,474 - INFO - Skipping folder: CombinedPriceSheetOverlayExtension
+2024-11-28 18:30:36,476 - INFO - Moved: CombinedPriceSheetOverlayExtension.zip
+2024-11-28 18:30:36,476 - INFO - Skipping folder: crx_downloader
+2024-11-28 18:30:36,477 - INFO - Moved: Daily_Checklist_(List).pdf
+2024-11-28 18:30:36,477 - INFO - Moved: DALL·E 2024-11-04 05.23.31 - A cover image for a blog article on creating a password-protected folder in Windows. The image should depict a computer folder with a lock icon on it,.webp
+2024-11-28 18:30:36,478 - INFO - Moved: DALL·E 2024-11-04 05.24.57 - A cover image for a blog article on creating a password-protected folder in Windows. The image should depict a computer folder with a lock icon on it,.webp
+2024-11-28 18:30:36,479 - INFO - Moved: DALL·E 2024-11-12 20.37.21 - A sleek, modern icon for a Chrome extension named 'Order Parts.' The icon should depict a gear or wrench symbol to represent parts, combined with a ma.webp
+2024-11-28 18:30:36,480 - INFO - Moved: DALL·E 2024-11-12 20.39.09 - A sleek, modern icon for a Chrome extension named 'Order Parts.' The icon should depict a gear or wrench symbol to represent parts, combined with a ma.webp
+2024-11-28 18:30:36,481 - INFO - Moved: DALL·E 2024-11-12 20.52.19 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.png
+2024-11-28 18:30:36,481 - INFO - Moved: DALL·E 2024-11-12 20.52.19 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.webp
+2024-11-28 18:30:36,482 - INFO - Moved: DALL·E 2024-11-12 20.52.55 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.webp
+2024-11-28 18:30:36,483 - INFO - Moved: DALL·E 2024-11-13 09.51.50 - Create a modern, minimalistic lock icon with a padlock design for a Chrome extension. The lock should be represented in a sleek, dark gray or black co.webp
+2024-11-28 18:30:36,486 - INFO - Moved: DALL·E 2024-11-13 09.53.07 - Design a simple, modern padlock icon for a Chrome extension with a bold lock outline, emphasizing security and privacy. Use dark gray or black for the.webp
+2024-11-28 18:30:36,487 - INFO - Moved: DALL·E 2024-11-13 09.54.06 - Create a Chrome extension icon featuring a modern padlock with a folder behind it, symbolizing secure access to files. The padlock should be dark gray.webp
+2024-11-28 18:30:36,488 - INFO - Moved: dark-mode-notepad-extension.zip
+2024-11-28 18:30:36,489 - INFO - Moved: Dell Repair Workflow.png
+2024-11-28 18:30:36,490 - INFO - Moved: Dentist Appointment.pdf
+2024-11-28 18:30:36,490 - INFO - Moved: Device Check-In Form QR Code.png
+2024-11-28 18:30:36,491 - INFO - Moved: Digital Checklist.png
+2024-11-28 18:30:36,492 - INFO - Moved: do eLearnings.png
+2024-11-28 18:30:36,492 - INFO - Moved: download (1).png
+2024-11-28 18:30:36,493 - INFO - Moved: download.jfif
+2024-11-28 18:30:36,494 - INFO - Moved: download.png
+2024-11-28 18:30:36,494 - INFO - Skipping folder: Email
+2024-11-28 18:30:36,496 - INFO - Skipping folder: enhanced_qr_scanner_files
+2024-11-28 18:30:36,497 - INFO - Moved: enhanced_qr_scanner_files.zip
+2024-11-28 18:30:36,498 - INFO - Moved: EpicInstaller-15.17.1.msi
+2024-11-28 18:30:36,499 - INFO - Moved: example 1.png
+2024-11-28 18:30:36,499 - INFO - Moved: example 2 - model is sku is what user searched is url searched sku is model.png
+2024-11-28 18:30:36,500 - INFO - Moved: example photo.png
+2024-11-28 18:30:36,501 - INFO - Moved: example.png
+2024-11-28 18:30:36,501 - INFO - Skipping folder: export-ms-teams-chats-main
+2024-11-28 18:30:36,502 - INFO - Moved: export-ms-teams-chats-main.zip
+2024-11-28 18:30:36,502 - INFO - Moved: Extension Export 2024-07-28 10_01_55.html
+2024-11-28 18:30:36,503 - INFO - Moved: Extension Export 2024-08-11 22_50_15.html
+2024-11-28 18:30:36,503 - INFO - Moved: file (1) (1).png
+2024-11-28 18:30:36,504 - INFO - Moved: file (1).png
+2024-11-28 18:30:36,505 - INFO - Moved: file (2).png
+2024-11-28 18:30:36,506 - INFO - Moved: file (3).png
+2024-11-28 18:30:36,508 - INFO - Moved: file (4).png
+2024-11-28 18:30:36,509 - INFO - Moved: file (5).png
+2024-11-28 18:30:36,510 - INFO - Moved: file-organizer-thing (Move Files).exe
+2024-11-28 18:30:36,510 - INFO - Moved: file.png
+2024-11-28 18:30:36,511 - INFO - Moved: FileOrganizerThing.zip
+2024-11-28 18:30:36,512 - INFO - Moved: Finding an Insurance Claim or In-Warranty Lead ( POS ) (1).pdf
+2024-11-28 18:30:36,512 - INFO - Skipping folder: fontawesome-free-6.6.0-desktop
+2024-11-28 18:30:36,513 - INFO - Moved: fontawesome-free-6.6.0-desktop.zip
+2024-11-28 18:30:36,513 - INFO - Skipping folder: fontawesome-free-6.6.0-web
+2024-11-28 18:30:36,514 - INFO - Moved: fontawesome-free-6.6.0-web.zip
+2024-11-28 18:30:36,514 - INFO - Moved: Format Factory (media converter).exe
+2024-11-28 18:30:36,515 - INFO - Moved: formData (1).txt
+2024-11-28 18:30:36,516 - INFO - Moved: formData (2).txt
+2024-11-28 18:30:36,516 - INFO - Moved: formData.txt
+2024-11-28 18:30:36,519 - INFO - Moved: Gainesville GA Bookmarks.html
+2024-11-28 18:30:36,519 - INFO - Moved: GOG_Galaxy_2.0.exe
+2024-11-28 18:30:36,520 - INFO - Moved: Google Price Sheet.xlsx
+2024-11-28 18:30:36,521 - INFO - Moved: Google-Forms-Responses-To-Docs-master.zip
+2024-11-28 18:30:36,522 - INFO - Moved: Google_Blog_Cover_Art.png
+2024-11-28 18:30:36,523 - INFO - Moved: gs-auto-clicker (Macro).exe
+2024-11-28 18:30:36,523 - INFO - Skipping folder: gsap-public
+2024-11-28 18:30:36,524 - INFO - Moved: gsap-public.zip
+2024-11-28 18:30:36,525 - INFO - Moved: GSPN - Submitting a Level S2+ Certificate Renewal (1).pdf
+2024-11-28 18:30:36,525 - INFO - Moved: GSPN - Submitting a Level S2+ Certificate Renewal.pdf
+2024-11-28 18:30:36,526 - INFO - Moved: GVTech Hub - Chrome Extension Pack.zip
+2024-11-28 18:30:36,527 - INFO - Moved: GVTECH HUB - PRIVATE PAGES.drawio.png
+2024-11-28 18:30:36,529 - INFO - Moved: GVTech Hub Domain Purchase.pdf
+2024-11-28 18:30:36,529 - INFO - Skipping folder: GVTechHub_Extension
+2024-11-28 18:30:36,530 - INFO - Moved: GVTechHub_Extension.zip
+2024-11-28 18:30:36,531 - INFO - Moved: Gym Plan.pdf
+2024-11-28 18:30:36,531 - INFO - Moved: HDClone.X.5.FE.en.Setup.exe
+2024-11-28 18:30:36,532 - INFO - Moved: Hospital Bill (Back).pdf
+2024-11-28 18:30:36,533 - INFO - Moved: Hospital Bill (Front).pdf
+2024-11-28 18:30:36,533 - INFO - Skipping folder: icons
+2024-11-28 18:30:36,534 - INFO - Moved: iiw.jfif
+2024-11-28 18:30:36,534 - INFO - Moved: ikigai Tattoo.jpg
+2024-11-28 18:30:36,535 - INFO - Moved: image (1) 1.png
+2024-11-28 18:30:36,536 - INFO - Moved: image (1).png
+2024-11-28 18:30:36,536 - INFO - Moved: image (10).png
+2024-11-28 18:30:36,539 - INFO - Moved: image (11).png
+2024-11-28 18:30:36,540 - INFO - Moved: image (13).png
+2024-11-28 18:30:36,540 - INFO - Moved: image (14).png
+2024-11-28 18:30:36,541 - INFO - Moved: image (15).png
+2024-11-28 18:30:36,542 - INFO - Moved: image (16).png
+2024-11-28 18:30:36,542 - INFO - Moved: image (17).png
+2024-11-28 18:30:36,543 - INFO - Moved: image (18).png
+2024-11-28 18:30:36,544 - INFO - Moved: Image (2).png
+2024-11-28 18:30:36,545 - INFO - Moved: Image (3).png
+2024-11-28 18:30:36,545 - INFO - Moved: Image (4).png
+2024-11-28 18:30:36,546 - INFO - Moved: Image (5).png
+2024-11-28 18:30:36,547 - INFO - Moved: image (6).png
+2024-11-28 18:30:36,549 - INFO - Moved: image (7).png
+2024-11-28 18:30:36,549 - INFO - Moved: image (8).png
+2024-11-28 18:30:36,550 - INFO - Moved: image (9).png
+2024-11-28 18:30:36,551 - INFO - Moved: image 1.png
+2024-11-28 18:30:36,552 - INFO - Moved: image.png
+2024-11-28 18:30:36,552 - INFO - Moved: images (1).png
+2024-11-28 18:30:36,553 - INFO - Moved: Important Information About This Part.png
+2024-11-28 18:30:36,554 - INFO - Moved: Install iCUE.exe
+2024-11-28 18:30:36,554 - INFO - Moved: iobituninstaller.exe
+2024-11-28 18:30:36,556 - INFO - Moved: item not received - kennedy cutshall - replacement device.png
+2024-11-28 18:30:36,556 - INFO - Moved: IW - In Warranty - Logo.png
+2024-11-28 18:30:36,559 - INFO - Moved: Jack Dooley - Photo 2.png
+2024-11-28 18:30:36,560 - INFO - Moved: Jack Dooley - Screen Recording.mp4
+2024-11-28 18:30:36,561 - INFO - Moved: Jack Dooley.png
+2024-11-28 18:30:36,561 - INFO - Moved: Jagex Launcher Installer.exe
+2024-11-28 18:30:36,562 - INFO - Moved: Joseph Green - Coaching Form.pdf
+2024-11-28 18:30:36,563 - INFO - Moved: Laptop Stand - Macbook Pro 15.png
+2024-11-28 18:30:36,564 - INFO - Moved: Life Tattoo.jfif
+2024-11-28 18:30:36,564 - INFO - Moved: Linkedin Photo.jfif
+2024-11-28 18:30:36,565 - INFO - Moved: Logging into POS.pdf
+2024-11-28 18:30:36,566 - INFO - Moved: Logii Browser Agency v1.8.8 Full Activated - WwW.Dr-FarFar.CoM.zip
+2024-11-28 18:30:36,566 - INFO - Moved: Logo-Search-Google--on-transparent-background-PNG.png
+2024-11-28 18:30:36,567 - INFO - Moved: Macrium Reflect (System Imaging).exe
+2024-11-28 18:30:36,569 - INFO - Moved: Magical Text Expander Check-In Notes Tutorial 3.pdf
+2024-11-28 18:30:36,570 - INFO - Moved: Mail - Loetz, Chris - Outlook.pdf
+2024-11-28 18:30:36,571 - INFO - Moved: MBSetup.exe
+2024-11-28 18:30:36,572 - INFO - Moved: Media (1).jfif
+2024-11-28 18:30:36,573 - INFO - Moved: Media (2).jfif
+2024-11-28 18:30:36,574 - INFO - Moved: Media (3).jfif
+2024-11-28 18:30:36,575 - INFO - Moved: Media (4).jfif
+2024-11-28 18:30:36,575 - INFO - Moved: Media (5).jfif
+2024-11-28 18:30:36,576 - INFO - Moved: Media (6).jfif
+2024-11-28 18:30:36,577 - INFO - Moved: Media (7).jfif
+2024-11-28 18:30:36,577 - INFO - Moved: Media.jfif
+2024-11-28 18:30:36,579 - INFO - Skipping folder: microsoft-teams-chat-extractor-main
+2024-11-28 18:30:36,579 - INFO - Skipping folder: microsoft-teams-chat-extractor-main (1)
+2024-11-28 18:30:36,580 - INFO - Moved: microsoft-teams-chat-extractor-main (1).zip
+2024-11-28 18:30:36,581 - INFO - Moved: microsoft-teams-chat-extractor-main.zip
+2024-11-28 18:30:36,581 - INFO - Skipping folder: modified_extension
+2024-11-28 18:30:36,582 - INFO - Moved: modified_extension.zip
+2024-11-28 18:30:36,583 - INFO - Moved: Monthly Calendar Reparis To Date (08-24-24).pdf
+2024-11-28 18:30:36,583 - INFO - Moved: MouseWithoutBordersSetup.msi
+2024-11-28 18:30:36,583 - INFO - Skipping folder: Move Files - File Organizer
+2024-11-28 18:30:36,584 - INFO - Moved: MW - Max Trade Credit Amount - UBIF.png
+2024-11-28 18:30:36,585 - INFO - Moved: NDI 6 Tools.exe
+2024-11-28 18:30:36,586 - INFO - Moved: New Offline WO Form 2022.pdf
+2024-11-28 18:30:36,586 - INFO - Moved: New tab.htm
+2024-11-28 18:30:36,587 - INFO - Skipping folder: New tab_files
+2024-11-28 18:30:36,587 - INFO - Moved: NH Evo Leader Guide.pdf
+2024-11-28 18:30:36,590 - INFO - Moved: North Side Hospital Bill Notice.pdf
+2024-11-28 18:30:36,591 - INFO - Moved: not right proportion.png
+2024-11-28 18:30:36,592 - INFO - Moved: note (1).pdf
+2024-11-28 18:30:36,593 - INFO - Moved: note (2).pdf
+2024-11-28 18:30:36,594 - INFO - Moved: note (3).pdf
+2024-11-28 18:30:36,594 - INFO - Moved: note (4).pdf
+2024-11-28 18:30:36,595 - INFO - Moved: note (5).pdf
+2024-11-28 18:30:36,596 - INFO - Moved: note (6).pdf
+2024-11-28 18:30:36,596 - INFO - Moved: note.pdf
+2024-11-28 18:30:36,597 - INFO - Moved: notepad color theme.png
+2024-11-28 18:30:36,598 - INFO - Moved: Notepad Widget (GVTech Hub) - App [ Final ].html
+2024-11-28 18:30:36,599 - INFO - Moved: notes_backup (1).json
+2024-11-28 18:30:36,601 - INFO - Moved: notes_backup (2).json
+2024-11-28 18:30:36,601 - INFO - Moved: notes_backup (3).json
+2024-11-28 18:30:36,602 - INFO - Moved: notes_backup(1).json
+2024-11-28 18:30:36,603 - INFO - Moved: notes_backup.json
+2024-11-28 18:30:36,604 - INFO - Moved: note_1 (1).txt
+2024-11-28 18:30:36,604 - INFO - Moved: note_1 (2).txt
+2024-11-28 18:30:36,606 - INFO - Moved: note_1.txt
+2024-11-28 18:30:36,606 - INFO - Moved: note_3.txt
+2024-11-28 18:30:36,607 - INFO - Moved: obs-ndi-4.13.0-windows-x64-Installer.exe
+2024-11-28 18:30:36,608 - INFO - Moved: obs-ndi-4.13.2-windows-x64-Installer.exe
+2024-11-28 18:30:36,608 - INFO - Moved: OBS-Studio-30.1.2-Full-Installer-x64.exe
+2024-11-28 18:30:36,609 - INFO - Skipping folder: OCT-FY24 - CHARGEBACKS-20241031T134026Z-001
+2024-11-28 18:30:36,609 - INFO - Moved: OCT-FY24 - CHARGEBACKS-20241031T134026Z-001.zip
+2024-11-28 18:30:36,612 - INFO - Moved: Offline_Parts_List.html
+2024-11-28 18:30:36,612 - INFO - Moved: offline_shopping_list_2024-11-04T12-30-01-314Z.html
+2024-11-28 18:30:36,613 - INFO - Moved: offline_shopping_list_2024-11-04T12-41-09-278Z.html
+2024-11-28 18:30:36,614 - INFO - Moved: offline_shopping_list_2024-11-04T12-42-05-138Z.html
+2024-11-28 18:30:36,614 - INFO - Moved: olivier-bergeron-5JSZzMilCVo-unsplash.jpg
+2024-11-28 18:30:36,615 - INFO - Moved: oow.png
+2024-11-28 18:30:36,615 - INFO - Skipping folder: Open Kiosk (Portable)
+2024-11-28 18:30:36,616 - INFO - Moved: OpenKIOSK - Kiosk Browser.zip
+2024-11-28 18:30:36,617 - INFO - Moved: OpenKiosk - READ ME - GVTech Hub.pdf
+2024-11-28 18:30:36,618 - INFO - Moved: OpenKiosk115.12.0-2024-06-25-x86_64 (1).msi
+2024-11-28 18:30:36,618 - INFO - Moved: OpenKiosk115.12.0-2024-06-25-x86_64.msi
+2024-11-28 18:30:36,619 - INFO - Moved: Operational Manual.pdf
+2024-11-28 18:30:36,621 - INFO - Skipping folder: Order Parts (Multi-Site Search)
+2024-11-28 18:30:36,622 - INFO - Moved: Order Parts (Multi-Site Search).zip
+2024-11-28 18:30:36,623 - INFO - Moved: Order Parts (UBIF) (1).png
+2024-11-28 18:30:36,624 - INFO - Moved: Order Parts (UBIF).png
+2024-11-28 18:30:36,625 - INFO - Moved: Order Parts - Screenshot-1.png
+2024-11-28 18:30:36,625 - INFO - Moved: Order Parts - Screenshot-2.png
+2024-11-28 18:30:36,626 - INFO - Moved: Order Parts - Screenshot-3.png
+2024-11-28 18:30:36,627 - INFO - Moved: Order Parts - Screenshot-4.png
+2024-11-28 18:30:36,628 - INFO - Moved: Order Parts - Screenshot-5.png
+2024-11-28 18:30:36,628 - INFO - Moved: Order_Parts_Marquee_Promo_1400x560.png
+2024-11-28 18:30:36,629 - INFO - Moved: Order_Parts_Promo_Tile_440x280.png
+2024-11-28 18:30:36,631 - INFO - Moved: Order_Parts_Resized_Screenshot_1.png
+2024-11-28 18:30:36,632 - INFO - Moved: Order_Parts_Resized_Screenshot_2.png
+2024-11-28 18:30:36,633 - INFO - Moved: Order_Parts_Resized_Screenshot_3.png
+2024-11-28 18:30:36,633 - INFO - Moved: Order_Parts_Resized_Screenshot_4.png
+2024-11-28 18:30:36,634 - INFO - Moved: Order_Parts_Resized_Screenshot_5.png
+2024-11-28 18:30:36,635 - INFO - Moved: OT - SALARY - Screenshot with Charts - overtime_results_2024-11-20 (18).png
+2024-11-28 18:30:36,636 - INFO - Moved: OT - Screenshot with Charts - overtime_results_2024-11-20 (18).png
+2024-11-28 18:30:36,636 - INFO - Moved: out of frame.png
+2024-11-28 18:30:36,637 - INFO - Moved: OverlayPopupExtension.zip
+2024-11-28 18:30:36,637 - INFO - Skipping folder: PapaParse-master
+2024-11-28 18:30:36,638 - INFO - Moved: PapaParse-master.zip
+2024-11-28 18:30:36,639 - INFO - Moved: Part Needing Ordered - Uknown part - 1 metal prong on side vs 2.jpeg
+2024-11-28 18:30:36,642 - INFO - Moved: Part Ordered - Wrong Part.jpeg
+2024-11-28 18:30:36,642 - INFO - Moved: Paul Petty - Discount.png
+2024-11-28 18:30:36,643 - INFO - Moved: Paul Petty.png
+2024-11-28 18:30:36,644 - INFO - Moved: Pay Period 19 - Break Interrupted - Orly Called.png
+2024-11-28 18:30:36,645 - INFO - Moved: Pay Period 19 - Break Interrupted - Orly Messaged Me.png
+2024-11-28 18:30:36,645 - INFO - Moved: Paycheck Calculator - Calculate Hourly Pay _ Gusto.html
+2024-11-28 18:30:36,645 - INFO - Skipping folder: Paycheck Calculator - Calculate Hourly Pay _ Gusto_files
+2024-11-28 18:30:36,646 - INFO - Moved: PaychecksList_2024-10-01_2024-12-31 (1).pdf
+2024-11-28 18:30:36,647 - INFO - Moved: PaychecksList_2024-10-01_2024-12-31.pdf
+2024-11-28 18:30:36,648 - INFO - Moved: Paycheck_2024-11-15.pdf
+2024-11-28 18:30:36,648 - INFO - Moved: paycheck_calculator_screenshot.png
+2024-11-28 18:30:36,649 - INFO - Moved: paystub_backup.json
+2024-11-28 18:30:36,651 - INFO - Moved: paystub_organizer_settings_backup.json
+2024-11-28 18:30:36,652 - INFO - Moved: phonto.PNG
+2024-11-28 18:30:36,653 - INFO - Moved: plutonium.exe
+2024-11-28 18:30:36,653 - INFO - Moved: PortableApps.com_Platform_Setup_29.5.3.paf.exe
+2024-11-28 18:30:36,654 - INFO - Moved: portal.ubif.net_ (1).png
+2024-11-28 18:30:36,654 - INFO - Moved: portal.ubif.net_ (2).png
+2024-11-28 18:30:36,655 - INFO - Moved: portal.ubif.net_ (3).png
+2024-11-28 18:30:36,656 - INFO - Moved: portal.ubif.net_ (4).png
+2024-11-28 18:30:36,657 - INFO - Moved: portal.ubif.net_ (5).png
+2024-11-28 18:30:36,658 - INFO - Moved: portal.ubif.net_ (6).png
+2024-11-28 18:30:36,658 - INFO - Moved: portal.ubif.net_ (7).png
+2024-11-28 18:30:36,659 - INFO - Moved: portal.ubif.net_.png
+2024-11-28 18:30:36,661 - INFO - Skipping folder: POS - GVTech HUB
+2024-11-28 18:30:36,662 - INFO - Moved: POS - GVTech HUB.zip
+2024-11-28 18:30:36,663 - INFO - Moved: Possible Out-of-Scope Repair .png
+2024-11-28 18:30:36,663 - INFO - Skipping folder: Price Calculator Extension
+2024-11-28 18:30:36,664 - INFO - Moved: Price Calculator.html
+2024-11-28 18:30:36,664 - INFO - Skipping folder: Price Sheet Extension
+2024-11-28 18:30:36,664 - INFO - Skipping folder: price-sheets-extension
+2024-11-28 18:30:36,664 - INFO - Skipping folder: PriceSheetOverlayExtension
+2024-11-28 18:30:36,665 - INFO - Moved: PriceSheetOverlayExtension.zip
+2024-11-28 18:30:36,666 - INFO - Skipping folder: PriceSheetWidget_Extension
+2024-11-28 18:30:36,666 - INFO - Moved: PriceSheetWidget_Extension.zip
+2024-11-28 18:30:36,667 - INFO - Moved: Printe Receipt.png
+2024-11-28 18:30:36,668 - INFO - Moved: prompts.csv
+2024-11-28 18:30:36,669 - INFO - Moved: Python script for price sheet extension.py
+2024-11-28 18:30:36,669 - INFO - Moved: python-3.13.0-amd64.exe
+2024-11-28 18:30:36,672 - INFO - Moved: QR_00000-00000000.txt
+2024-11-28 18:30:36,673 - INFO - Moved: QR_Code_00000-00000000 (1).png
+2024-11-28 18:30:36,674 - INFO - Moved: QR_Code_00000-00000000.png
+2024-11-28 18:30:36,674 - INFO - Moved: QR_Code_123456789123.png
+2024-11-28 18:30:36,675 - INFO - Moved: QR_Code_127486-56515165 (1).png
+2024-11-28 18:30:36,676 - INFO - Moved: QR_Code_127486-56515165.png
+2024-11-28 18:30:36,677 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600 (1).err
+2024-11-28 18:30:36,677 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600 (1).exe
+2024-11-28 18:30:36,678 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600.err
+2024-11-28 18:30:36,679 - INFO - Moved: RazerSynapseInstaller_V1.17.0.600.exe
+2024-11-28 18:30:36,680 - INFO - Moved: Receiving Inventory UBIF Distro Purchase.pdf
+2024-11-28 18:30:36,681 - INFO - Moved: red-angry-sad-face-negative-people-emotion-icon-vector-14659112.jpg
+2024-11-28 18:30:36,682 - INFO - Moved: redux-master.zip
+2024-11-28 18:30:36,683 - INFO - Moved: Refund Tracking - Completing Forms For Review.png
+2024-11-28 18:30:36,683 - INFO - Moved: Repair Appointments Not Set.png
+2024-11-28 18:30:36,684 - INFO - Moved: Repair Appointments.png
+2024-11-28 18:30:36,685 - INFO - Moved: Repair Queue - 46 down to 19 (1).png
+2024-11-28 18:30:36,686 - INFO - Moved: Repair Queue - 46 down to 19.png
+2024-11-28 18:30:36,686 - INFO - Moved: repair-price-calculator (1).png
+2024-11-28 18:30:36,687 - INFO - Moved: repair-price-calculator (2).png
+2024-11-28 18:30:36,688 - INFO - Moved: repair-price-calculator (3).png
+2024-11-28 18:30:36,689 - INFO - Moved: repair-price-calculator (4).png
+2024-11-28 18:30:36,689 - INFO - Moved: repair-price-calculator (5).png
+2024-11-28 18:30:36,692 - INFO - Moved: repair-price-calculator (6).png
+2024-11-28 18:30:36,693 - INFO - Moved: repair-price-calculator.png
+2024-11-28 18:30:36,693 - INFO - Moved: Resuming Suspended Work Orders - Quotes ( POS ).pdf
+2024-11-28 18:30:36,694 - INFO - Moved: Revenue Made on Sunday (1).png
+2024-11-28 18:30:36,695 - INFO - Moved: Revenue Made on Sunday.png
+2024-11-28 18:30:36,696 - INFO - Moved: Revenue to Goal.png
+2024-11-28 18:30:36,696 - INFO - Moved: review.pdf
+2024-11-28 18:30:36,697 - INFO - Moved: Sales Lead Interview Packet.pdf
+2024-11-28 18:30:36,698 - INFO - Moved: Samsung Level S2 Submission Guide.pdf
+2024-11-28 18:30:36,698 - INFO - Moved: Samsung US MSRP Price Sheet (New).xlsx
+2024-11-28 18:30:36,699 - INFO - Moved: Screenshot 2024-08-09 235859.png
+2024-11-28 18:30:36,700 - INFO - Moved: Screenshot 2024-08-10 001437.png
+2024-11-28 18:30:36,701 - INFO - Moved: September - Week-1 - UBIF Schedule 1.png
+2024-11-28 18:30:36,703 - INFO - Moved: September - Week-2 - UBIF Schedule 1.png
+2024-11-28 18:30:36,703 - INFO - Moved: September - Week-3 - UBIF Schedule 1.png
+2024-11-28 18:30:36,704 - INFO - Moved: Set Password - Rename File (1).txt
+2024-11-28 18:30:36,705 - INFO - Moved: Set Password - Rename File (2).txt
+2024-11-28 18:30:36,705 - INFO - Moved: Set Password - Rename File (3).txt
+2024-11-28 18:30:36,706 - INFO - Moved: Set Password - Rename File.txt
+2024-11-28 18:30:36,707 - INFO - Moved: Set-password-for-your-browser-chrome-lock-Chrome-Web-Store.zip
+2024-11-28 18:30:36,708 - INFO - Moved: shared image.jfif
+2024-11-28 18:30:36,708 - INFO - Skipping folder: sheetjs-github
+2024-11-28 18:30:36,708 - INFO - Skipping folder: sheetjs-github (1)
+2024-11-28 18:30:36,709 - INFO - Moved: sheetjs-github (1).zip
+2024-11-28 18:30:36,710 - INFO - Moved: sheetjs-github.zip
+2024-11-28 18:30:36,711 - INFO - Moved: shopping_list_2024-11-04T12-30-13-889Z.csv
+2024-11-28 18:30:36,713 - INFO - Moved: shopping_list_2024-11-04T12-42-02-260Z.csv
+2024-11-28 18:30:36,713 - INFO - Moved: shopping_list_2024-11-04T12-42-04-273Z.txt
+2024-11-28 18:30:36,714 - INFO - Moved: shortcutkeys.json
+2024-11-28 18:30:36,714 - INFO - Skipping folder: single-file-export-chat-main
+2024-11-28 18:30:36,715 - INFO - Moved: single-file-export-chat-main.zip
+2024-11-28 18:30:36,716 - INFO - Moved: sites.google.com_view_gvtechhub (1).png
+2024-11-28 18:30:36,716 - INFO - Moved: sites.google.com_view_gvtechhub.png
+2024-11-28 18:30:36,717 - INFO - Skipping folder: Smart Text Expander
+2024-11-28 18:30:36,717 - INFO - Skipping folder: Smart Text Expander (Windows App)
+2024-11-28 18:30:36,718 - INFO - Moved: Smart Text Expander (Windows App).zip
+2024-11-28 18:30:36,718 - INFO - Moved: Smart Text Expander.zip
+2024-11-28 18:30:36,719 - INFO - Moved: SmartDefragPortable_9.4.0.342.paf.exe
+2024-11-28 18:30:36,720 - INFO - Moved: Soldering Equipment.png
+2024-11-28 18:30:36,720 - INFO - Moved: speed-dial-2-export-2024-07-28 (1).json
+2024-11-28 18:30:36,721 - INFO - Moved: speed-dial-2-export-2024-07-28.json
+2024-11-28 18:30:36,724 - INFO - Moved: Staff Login Process-Page-2.drawio.png
+2024-11-28 18:30:36,725 - INFO - Moved: Star System Descriptiuon.png
+2024-11-28 18:30:36,725 - INFO - Moved: SteamSetup.exe
+2024-11-28 18:30:36,726 - INFO - Moved: Store Device Repair Storage System - UBIF - Store 881 Envision.png
+2024-11-28 18:30:36,727 - INFO - Moved: Store Management SOP.pdf
+2024-11-28 18:30:36,727 - INFO - Skipping folder: store-operations-dashboard
+2024-11-28 18:30:36,728 - INFO - Moved: store-operations-dashboard.zip
+2024-11-28 18:30:36,729 - INFO - Moved: Streamlabs+Desktop+Setup+1.16.7-VG2kSlB8uFnyHCC.exe
+2024-11-28 18:30:36,729 - INFO - Moved: tabExtend_data_20240804 (1).json
+2024-11-28 18:30:36,730 - INFO - Moved: tabExtend_data_20240804.json
+2024-11-28 18:30:36,730 - INFO - Skipping folder: Tartarus - Iron Claw Mouse (KeyBinds)
+2024-11-28 18:30:36,731 - INFO - Moved: temp (1).crx
+2024-11-28 18:30:36,732 - INFO - Moved: temp.crx
+2024-11-28 18:30:36,733 - INFO - Moved: The Price Sheet (New).xlsx
+2024-11-28 18:30:36,734 - INFO - Skipping folder: The Price Sheet Overlay
+2024-11-28 18:30:36,735 - INFO - Moved: The Price Sheet Overlay.zip
+2024-11-28 18:30:36,736 - INFO - Moved: this.png
+2024-11-28 18:30:36,737 - INFO - Moved: TikTok Bot Pro v3.5.6 Full Activated - WwW.Dr-FarFar.CoM.zip
+2024-11-28 18:30:36,737 - INFO - Moved: tiktok_live_studio-v0.59.0-win32-x64.exe
+2024-11-28 18:30:36,738 - INFO - Moved: timeclock-payroll-totals_overview_2024-09-30_2024-10-29.xlsx
+2024-11-28 18:30:36,739 - INFO - Moved: Timesheet 10-01-24.png
+2024-11-28 18:30:36,740 - INFO - Moved: To Do Organization.png
+2024-11-28 18:30:36,741 - INFO - Moved: Todays closed out sales.png
+2024-11-28 18:30:36,742 - INFO - Moved: triggers (1).csv
+2024-11-28 18:30:36,742 - INFO - Moved: triggers (2).csv
+2024-11-28 18:30:36,743 - INFO - Moved: triggers (3).csv
+2024-11-28 18:30:36,745 - INFO - Moved: triggers (4).csv
+2024-11-28 18:30:36,746 - INFO - Moved: triggers (5).csv
+2024-11-28 18:30:36,747 - INFO - Moved: triggers (6).csv
+2024-11-28 18:30:36,747 - INFO - Moved: triggers (7).csv
+2024-11-28 18:30:36,748 - INFO - Moved: triggers (8).csv
+2024-11-28 18:30:36,749 - INFO - Moved: triggers (9).csv
+2024-11-28 18:30:36,749 - INFO - Moved: triggers.csv
+2024-11-28 18:30:36,750 - INFO - Moved: ttsetup.exe
+2024-11-28 18:30:36,751 - INFO - Moved: TurboTop - Always On.exe
+2024-11-28 18:30:36,752 - INFO - Moved: UBIF #881 - 3 Stage - Device Repair Process.pdf
+2024-11-28 18:30:36,752 - INFO - Moved: UBIF #881 - Daily Checklist (List) (1).pdf
+2024-11-28 18:30:36,753 - INFO - Moved: UBIF #881 - Daily Checklist (List).pdf
+2024-11-28 18:30:36,754 - INFO - Moved: UBIF #881 - Finding an Insurance Claim or In-Warranty Lead ( POS ).pdf
+2024-11-28 18:30:36,756 - INFO - Moved: UBIF #881 - Logging into POS.pdf
+2024-11-28 18:30:36,757 - INFO - Moved: UBIF #881 - Processing Buy Backs.pdf
+2024-11-28 18:30:36,758 - INFO - Moved: UBIF #881 - Receiving Inventory UBIF Distro Purchase.pdf
+2024-11-28 18:30:36,758 - INFO - Moved: UBIF #881 - Resuming Suspended Work Orders - Quotes ( POS ).pdf
+2024-11-28 18:30:36,759 - INFO - Moved: UBIF - iphone screen under 10 minutes (1).png
+2024-11-28 18:30:36,760 - INFO - Moved: UBIF - iphone screen under 10 minutes.png
+2024-11-28 18:30:36,761 - INFO - Moved: UBIF - Logo.jfif
+2024-11-28 18:30:36,761 - INFO - Moved: UBIF - Submitting Galaxy Diagnostic Tool.pdf
+2024-11-28 18:30:36,762 - INFO - Moved: UBIF - Technician Candidate Interview.pdf
+2024-11-28 18:30:36,763 - INFO - Moved: UBIF - Week-1 - Payroll Timesheet - August 1.png
+2024-11-28 18:30:36,765 - INFO - Moved: UBIF - Week-2 - Payroll Timesheet - August 1.png
+2024-11-28 18:30:36,766 - INFO - Moved: UBIF 881 - Processing Buy Backs.pdf
+2024-11-28 18:30:36,767 - INFO - Moved: UBIF Contacts.vcf
+2024-11-28 18:30:36,767 - INFO - Moved: UBIF Logo 2.png
+2024-11-28 18:30:36,768 - INFO - Moved: UBIF Logo.png
+2024-11-28 18:30:36,769 - INFO - Moved: uBreakiFix - Overtime Hours - Unpaid - Salary Started - 10-14-24 - 45kyr (1).pdf
+2024-11-28 18:30:36,770 - INFO - Moved: uBreakiFix - Overtime Hours - Unpaid - Salary Started - 10-14-24 - 45kyr.pdf
+2024-11-28 18:30:36,770 - INFO - Moved: uBreakiFix Portal.html
+2024-11-28 18:30:36,770 - INFO - Skipping folder: uBreakiFix Portal_files
+2024-11-28 18:30:36,771 - INFO - Skipping folder: UBREAKIFIX-master
+2024-11-28 18:30:36,772 - INFO - Moved: UBREAKIFIX-master.zip
+2024-11-28 18:30:36,772 - INFO - Skipping folder: ubreakifix.github.io-master
+2024-11-28 18:30:36,773 - INFO - Moved: ubreakifix.github.io-master.zip
+2024-11-28 18:30:36,776 - INFO - Moved: ufoInstall.msi
+2024-11-28 18:30:36,776 - INFO - Moved: Unique_Parts.csv
+2024-11-28 18:30:36,777 - INFO - Skipping folder: upcoming-chargebacks
+2024-11-28 18:30:36,777 - INFO - Skipping folder: upcoming-chargebacks (1)
+2024-11-28 18:30:36,778 - INFO - Moved: upcoming-chargebacks (1).zip
+2024-11-28 18:30:36,778 - INFO - Moved: upcoming-chargebacks.zip
+2024-11-28 18:30:36,779 - INFO - Moved: UPC_123456789123 (1).png
+2024-11-28 18:30:36,780 - INFO - Moved: UPC_123456789123.png
+2024-11-28 18:30:36,780 - INFO - Moved: Update GSPN - Level S2+ Certificate Renewal Email.pdf
+2024-11-28 18:30:36,780 - INFO - Skipping folder: updated_chrome_extension
+2024-11-28 18:30:36,781 - INFO - Moved: updated_chrome_extension.zip
+2024-11-28 18:30:36,782 - INFO - Moved: Update_GSPN___Level_S2__Certificate_Renewal_Email.pdf_1e179152-66f7-4abb-a4de-971ec86f876b.pdf
+2024-11-28 18:30:36,783 - INFO - Moved: user-normal.png
+2024-11-28 18:30:36,783 - INFO - Skipping folder: Visual-C-Runtimes-All-in-One-May-2024
+2024-11-28 18:30:36,784 - INFO - Moved: Visual-C-Runtimes-All-in-One-May-2024.zip
+2024-11-28 18:30:36,784 - INFO - Moved: VoicemodSetup_2.48.4.0.exe
+2024-11-28 18:30:36,787 - INFO - Moved: Volume_Master (2).crx
+2024-11-28 18:30:36,788 - INFO - Moved: Walmart (1).jfif
+2024-11-28 18:30:36,789 - INFO - Moved: Walmart Ordre 10-05-24.png
+2024-11-28 18:30:36,790 - INFO - Moved: Walmart Purchase - 8-30-24.png
+2024-11-28 18:30:36,790 - INFO - Moved: Walmart Receipt.png
+2024-11-28 18:30:36,791 - INFO - Moved: Walmart.jfif
+2024-11-28 18:30:36,792 - INFO - Skipping folder: web_lock_extension
+2024-11-28 18:30:36,793 - INFO - Moved: web_lock_extension.zip
+2024-11-28 18:30:36,793 - INFO - Skipping folder: web_lock_extension_unpacked
+2024-11-28 18:30:36,794 - INFO - Moved: WindowsPCHealthCheckSetup (1).msi
+2024-11-28 18:30:36,794 - INFO - Moved: WindowsPCHealthCheckSetup.msi
+2024-11-28 18:30:36,795 - INFO - Moved: Windows_MediaFeaturePack_x64_1903_V1.msu
+2024-11-28 18:30:36,797 - INFO - Moved: winrar-x64-701.exe
+2024-11-28 18:30:36,798 - INFO - Skipping folder: Work Order Lookup Extension
+2024-11-28 18:30:36,798 - INFO - Moved: Work Order Workflow Timeframe Expectations.png
+2024-11-28 18:30:36,799 - INFO - Moved: XHALE CITY - ITEMIZED RECEIPT.txt
+2024-11-28 18:30:36,800 - INFO - Moved: xhale city - receipt.pdf
+2024-11-28 18:30:36,801 - INFO - Moved: XSplit_VCam_4.2.2402.0901.exe
+2024-11-28 18:30:36,801 - INFO - Moved: Your-Keyless-Entry-Remote-Order-Confirmation-368858.pdf
+2024-11-28 18:30:36,802 - INFO - Moved: Your-Keyless-Entry-Remote-Order-Confirmation.pdf
+2024-11-28 18:30:36,803 - INFO - Moved: [Guru3D.com]-DDU.zip
+2024-11-28 18:30:36,804 - INFO - Moved: [SVC-09] IMEI Cloud guide for Service Center user_Rev1.0.pdf
+2024-11-28 18:30:36,804 - INFO - Moved: _GVTech_Hub_18378113.apk
+2024-11-28 18:30:36,805 - INFO - Skipping folder: {autopf}
+2024-11-28 18:30:36,834 - INFO - 
+=== Organization Statistics ===
+2024-11-28 18:30:36,834 - INFO - Files moved: 464
+2024-11-28 18:30:36,834 - INFO - Space cleared: 5716.85 MB
+2024-11-28 18:30:36,835 - INFO - Errors encountered: 0
+2024-11-28 18:30:36,835 - INFO - ===========================
+2024-11-28 18:30:36,835 - INFO - Organization complete!
+2024-11-28 18:33:25,069 - INFO - Initializing File Organizer...
+2024-11-28 18:33:25,150 - INFO - Detected OS: Windows
+2024-11-28 18:33:25,150 - INFO - Configuration loaded successfully
+2024-11-28 18:33:25,154 - INFO - Found Shell API Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:33:25,155 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:33:25,155 - INFO - Found regular Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:33:25,155 - INFO - Found Registry Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:33:25,155 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:33:25,156 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:33:25,156 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:33:25,156 - INFO - Initialization complete
+2024-11-28 18:33:27,041 - INFO - Starting organization process...
+2024-11-28 18:33:27,041 - INFO - Organizing Desktop...
+2024-11-28 18:33:27,044 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Documents
+2024-11-28 18:33:27,045 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Images
+2024-11-28 18:33:27,045 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Audio
+2024-11-28 18:33:27,046 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Video
+2024-11-28 18:33:27,048 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\ZIP_Files
+2024-11-28 18:33:27,049 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\RAR_Files
+2024-11-28 18:33:27,050 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Other_Archives
+2024-11-28 18:33:27,051 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Code
+2024-11-28 18:33:27,054 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Executables
+2024-11-28 18:33:27,055 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Folders
+2024-11-28 18:33:27,056 - INFO - Set icon for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-33PM\Others
+2024-11-28 18:33:27,064 - INFO - Moved -------------CODING CANVAS------------ to Folders folder
+2024-11-28 18:33:27,070 - INFO - Moved Dell Diagnostic Tool (UBIF) to Folders folder
+2024-11-28 18:33:27,072 - INFO - Moved Draft PROJECT to Folders folder
+2024-11-28 18:33:27,074 - INFO - Moved Mouse Without Borders to Folders folder
+2024-11-28 18:33:27,076 - INFO - Moved MouseWithoutBorders to Folders folder
+2024-11-28 18:33:27,078 - INFO - Moved Notepad _ Write your notes online_files to Folders folder
+2024-11-28 18:33:27,079 - INFO - Moved OpenKIOSK - Chrom Extensions to Folders folder
+2024-11-28 18:33:27,082 - INFO - Moved Price Calculator Extension to Folders folder
+2024-11-28 18:33:27,261 - INFO - Moved Project Python to Folders folder
+2024-11-28 18:33:27,264 - INFO - Moved RUN ANDOID APPS ON WINDOWS 10 NATIVE_files to Folders folder
+2024-11-28 18:33:27,267 - INFO - Moved Team Chat to Folders folder
+2024-11-28 18:33:27,269 - INFO - Moved UBIF - Chrome Extensions to Folders folder
+2024-11-28 18:33:27,271 - INFO - Moved uBreakiFix Portal_files to Folders folder
+2024-11-28 18:33:27,273 - INFO - Moved uBreakiFix Website to Folders folder
+2024-11-28 18:33:27,275 - INFO - Moved Work Order Lookup Extension to Folders folder
+2024-11-28 18:33:27,276 - INFO - Organizing Downloads...
+2024-11-28 18:33:27,280 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Documents
+2024-11-28 18:33:27,282 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Images
+2024-11-28 18:33:27,284 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Audio
+2024-11-28 18:33:27,285 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Video
+2024-11-28 18:33:27,286 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\ZIP_Files
+2024-11-28 18:33:27,287 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\RAR_Files
+2024-11-28 18:33:27,288 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Other_Archives
+2024-11-28 18:33:27,289 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Code
+2024-11-28 18:33:27,290 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Executables
+2024-11-28 18:33:27,291 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Folders
+2024-11-28 18:33:27,293 - INFO - Set icon for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-33PM\Others
+2024-11-28 18:33:27,295 - INFO - Moved 1186652-f630a1a8b7443518957f079f3fda3a01ad67e915 to Folders folder
+2024-11-28 18:33:27,297 - INFO - Moved 881 UBIF-Chrome Extension (1) to Folders folder
+2024-11-28 18:33:27,299 - INFO - Moved ai_multifunctional_tool_extension to Folders folder
+2024-11-28 18:33:27,302 - INFO - Moved apk_loader_extension to Folders folder
+2024-11-28 18:33:27,304 - INFO - Moved Appointment System (Appointy Replica) to Folders folder
+2024-11-28 18:33:27,305 - INFO - Moved appointment-extension to Folders folder
+2024-11-28 18:33:27,306 - INFO - Moved appointment-system to Folders folder
+2024-11-28 18:33:27,308 - INFO - Moved August - September (Updated Schedule) to Folders folder
+2024-11-28 18:33:27,309 - INFO - Moved chrome-lock to Folders folder
+2024-11-28 18:33:27,310 - INFO - Moved chrome_extension (1) to Folders folder
+2024-11-28 18:33:27,312 - INFO - Moved CombinedPriceSheetOverlayExtension to Folders folder
+2024-11-28 18:33:27,314 - INFO - Moved crx_downloader to Folders folder
+2024-11-28 18:33:27,316 - INFO - Moved Email to Folders folder
+2024-11-28 18:33:27,318 - INFO - Moved enhanced_qr_scanner_files to Folders folder
+2024-11-28 18:33:27,319 - INFO - Moved export-ms-teams-chats-main to Folders folder
+2024-11-28 18:33:27,323 - INFO - Moved fontawesome-free-6.6.0-desktop to Folders folder
+2024-11-28 18:33:27,326 - INFO - Moved fontawesome-free-6.6.0-web to Folders folder
+2024-11-28 18:33:27,328 - INFO - Moved gsap-public to Folders folder
+2024-11-28 18:33:27,329 - INFO - Moved GVTechHub_Extension to Folders folder
+2024-11-28 18:33:27,332 - INFO - Moved icons to Folders folder
+2024-11-28 18:33:27,334 - INFO - Moved microsoft-teams-chat-extractor-main to Folders folder
+2024-11-28 18:33:27,336 - INFO - Moved microsoft-teams-chat-extractor-main (1) to Folders folder
+2024-11-28 18:33:27,337 - INFO - Moved modified_extension to Folders folder
+2024-11-28 18:33:27,339 - INFO - Moved Move Files - File Organizer to Folders folder
+2024-11-28 18:33:27,341 - INFO - Moved New tab_files to Folders folder
+2024-11-28 18:33:27,343 - INFO - Moved OCT-FY24 - CHARGEBACKS-20241031T134026Z-001 to Folders folder
+2024-11-28 18:33:27,344 - INFO - Moved Open Kiosk (Portable) to Folders folder
+2024-11-28 18:33:27,346 - INFO - Moved Order Parts (Multi-Site Search) to Folders folder
+2024-11-28 18:33:27,349 - INFO - Moved PapaParse-master to Folders folder
+2024-11-28 18:33:27,351 - INFO - Moved Paycheck Calculator - Calculate Hourly Pay _ Gusto_files to Folders folder
+2024-11-28 18:33:27,353 - INFO - Moved POS - GVTech HUB to Folders folder
+2024-11-28 18:33:27,355 - INFO - Moved Price Calculator Extension to Folders folder
+2024-11-28 18:33:27,357 - INFO - Moved Price Sheet Extension to Folders folder
+2024-11-28 18:33:27,358 - INFO - Moved price-sheets-extension to Folders folder
+2024-11-28 18:33:27,360 - INFO - Moved PriceSheetOverlayExtension to Folders folder
+2024-11-28 18:33:27,362 - INFO - Moved PriceSheetWidget_Extension to Folders folder
+2024-11-28 18:33:27,364 - INFO - Moved sheetjs-github to Folders folder
+2024-11-28 18:33:27,366 - INFO - Moved sheetjs-github (1) to Folders folder
+2024-11-28 18:33:27,368 - INFO - Moved single-file-export-chat-main to Folders folder
+2024-11-28 18:33:27,370 - INFO - Moved Smart Text Expander to Folders folder
+2024-11-28 18:33:27,445 - INFO - Moved Smart Text Expander (Windows App) to Folders folder
+2024-11-28 18:33:27,447 - INFO - Moved store-operations-dashboard to Folders folder
+2024-11-28 18:33:27,449 - INFO - Moved Tartarus - Iron Claw Mouse (KeyBinds) to Folders folder
+2024-11-28 18:33:27,452 - INFO - Moved The Price Sheet Overlay to Folders folder
+2024-11-28 18:33:27,453 - INFO - Moved uBreakiFix Portal_files to Folders folder
+2024-11-28 18:33:27,455 - INFO - Moved UBREAKIFIX-master to Folders folder
+2024-11-28 18:33:27,458 - INFO - Moved ubreakifix.github.io-master to Folders folder
+2024-11-28 18:33:27,459 - INFO - Moved upcoming-chargebacks to Folders folder
+2024-11-28 18:33:27,461 - INFO - Moved upcoming-chargebacks (1) to Folders folder
+2024-11-28 18:33:27,463 - INFO - Moved updated_chrome_extension to Folders folder
+2024-11-28 18:33:27,465 - INFO - Moved Visual-C-Runtimes-All-in-One-May-2024 to Folders folder
+2024-11-28 18:33:27,468 - INFO - Moved web_lock_extension to Folders folder
+2024-11-28 18:33:27,470 - INFO - Moved web_lock_extension_unpacked to Folders folder
+2024-11-28 18:33:27,472 - INFO - Moved Work Order Lookup Extension to Folders folder
+2024-11-28 18:33:27,473 - INFO - Moved {autopf} to Folders folder
+2024-11-28 18:33:27,494 - INFO - 
+=== Organization Statistics ===
+2024-11-28 18:33:27,497 - INFO - Files moved: 71
+2024-11-28 18:33:27,497 - INFO - Space cleared: 0.20 MB
+2024-11-28 18:33:27,498 - INFO - Errors encountered: 0
+2024-11-28 18:33:27,498 - INFO - ===========================
+2024-11-28 18:33:27,499 - INFO - Organization complete!
+2024-11-28 18:43:26,607 - INFO - Initializing File Organizer...
+2024-11-28 18:43:26,699 - INFO - Detected OS: Windows
+2024-11-28 18:43:26,700 - INFO - Configuration loaded successfully
+2024-11-28 18:43:26,704 - INFO - Found Shell API Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:43:26,705 - ERROR - Failed to get Desktop path
+2024-11-28 18:43:26,705 - ERROR - Failed to get Downloads path
+2024-11-28 18:43:26,705 - INFO - Initialization complete
+2024-11-28 18:43:50,469 - INFO - Found Shell API Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:45:05,525 - INFO - Initializing File Organizer...
+2024-11-28 18:45:05,609 - INFO - Detected OS: Windows
+2024-11-28 18:45:05,609 - INFO - Configuration loaded successfully
+2024-11-28 18:45:05,610 - WARNING - Failed to get Desktop path from Shell API: module 'ctypes' has no attribute 'wintypes'
+2024-11-28 18:45:05,610 - ERROR - No valid Desktop path found
+2024-11-28 18:45:05,610 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:45:05,610 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:45:05,610 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:45:05,611 - ERROR - Failed to get Desktop path
+2024-11-28 18:45:05,611 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:45:05,611 - INFO - Initialization complete
+2024-11-28 18:46:31,108 - INFO - Initializing File Organizer...
+2024-11-28 18:46:31,161 - INFO - Detected OS: Windows
+2024-11-28 18:46:31,161 - INFO - Configuration loaded successfully
+2024-11-28 18:46:31,161 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:46:31,162 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:46:31,162 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:46:31,162 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:46:31,162 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:46:31,162 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:46:31,163 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:46:31,163 - INFO - Initialization complete
+2024-11-28 18:46:37,903 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:46:37,903 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:46:37,907 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Documents
+2024-11-28 18:46:37,908 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Images
+2024-11-28 18:46:37,909 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Audio
+2024-11-28 18:46:37,910 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Video
+2024-11-28 18:46:37,911 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\ZIP_Files
+2024-11-28 18:46:37,913 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\RAR_Files
+2024-11-28 18:46:37,916 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Other_Archives
+2024-11-28 18:46:37,918 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Code
+2024-11-28 18:46:37,919 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Executables
+2024-11-28 18:46:37,920 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Folders
+2024-11-28 18:46:37,921 - INFO - Set icon and color for folder: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop\Archive\Nov-28-2024_06-46PM\Others
+2024-11-28 18:46:37,947 - INFO - Moved -------------CODING CANVAS------------ to Folders folder
+2024-11-28 18:46:37,949 - INFO - Moved afterpay amazon purchase not purchased.png to Images folder
+2024-11-28 18:46:37,950 - INFO - Moved Amazon return label.pdf to Documents folder
+2024-11-28 18:46:37,951 - INFO - Moved Cursor.lnk to Others folder
+2024-11-28 18:46:37,959 - INFO - Moved Dell Diagnostic Tool (UBIF) to Folders folder
+2024-11-28 18:46:37,962 - INFO - Moved Draft PROJECT to Folders folder
+2024-11-28 18:46:37,964 - INFO - Moved draw.io.lnk to Others folder
+2024-11-28 18:46:37,965 - INFO - Moved Example of a sample trigger set and the main screen layout.png to Images folder
+2024-11-28 18:46:37,967 - INFO - Moved HDClone.lnk to Others folder
+2024-11-28 18:46:37,968 - INFO - Moved IMEI Lookup - Statuses and Their Results.txt to Documents folder
+2024-11-28 18:46:37,969 - INFO - Moved KayWat with the T as a cross.png to Images folder
+2024-11-28 18:46:37,971 - INFO - Moved Mouse Without Borders to Folders folder
+2024-11-28 18:46:37,973 - INFO - Moved MouseWithoutBorders to Folders folder
+2024-11-28 18:46:37,974 - INFO - Moved Notepad _ Write your notes online.html to Code folder
+2024-11-28 18:46:37,977 - INFO - Moved Notepad _ Write your notes online_files to Folders folder
+2024-11-28 18:46:37,979 - INFO - Moved OpenKIOSK - Chrom Extensions to Folders folder
+2024-11-28 18:46:37,981 - INFO - Moved Price Calculator Extension to Folders folder
+2024-11-28 18:46:38,159 - INFO - Moved Project Python to Folders folder
+2024-11-28 18:46:38,160 - INFO - Moved Project Python.zip to ZIP_Files folder
+2024-11-28 18:46:38,163 - INFO - Moved RUN ANDOID APPS ON WINDOWS 10 NATIVE.html to Code folder
+2024-11-28 18:46:38,165 - INFO - Moved RUN ANDOID APPS ON WINDOWS 10 NATIVE_files to Folders folder
+2024-11-28 18:46:38,166 - INFO - Moved Settings Menu.png to Images folder
+2024-11-28 18:46:38,167 - INFO - Moved Smart Text Expander.bat to Others folder
+2024-11-28 18:46:38,168 - INFO - Moved Smart Text Expander.bat - Shortcut.lnk to Others folder
+2024-11-28 18:46:38,170 - INFO - Moved Team Chat to Folders folder
+2024-11-28 18:46:38,171 - INFO - Moved Team Chat.css to Code folder
+2024-11-28 18:46:38,172 - INFO - Moved Team Chat.zip to ZIP_Files folder
+2024-11-28 18:46:38,174 - INFO - Moved UBIF - Chrome Extensions to Folders folder
+2024-11-28 18:46:38,175 - INFO - Moved uBreakiFix Portal.html to Code folder
+2024-11-28 18:46:38,177 - INFO - Moved uBreakiFix Portal_files to Folders folder
+2024-11-28 18:46:38,179 - INFO - Moved uBreakiFix Website to Folders folder
+2024-11-28 18:46:38,182 - INFO - Moved Work Order Lookup Extension to Folders folder
+2024-11-28 18:46:38,182 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:46:38,183 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:46:38,183 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:46:38,184 - INFO - Created archive folder: C:\Users\domok\Downloads\Archive
+2024-11-28 18:46:38,217 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Documents
+2024-11-28 18:46:38,219 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Images
+2024-11-28 18:46:38,220 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Audio
+2024-11-28 18:46:38,221 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Video
+2024-11-28 18:46:38,222 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\ZIP_Files
+2024-11-28 18:46:38,223 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\RAR_Files
+2024-11-28 18:46:38,224 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Other_Archives
+2024-11-28 18:46:38,225 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Code
+2024-11-28 18:46:38,226 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Executables
+2024-11-28 18:46:38,227 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Folders
+2024-11-28 18:46:38,228 - INFO - Set icon and color for folder: C:\Users\domok\Downloads\Archive\Nov-28-2024_06-46PM\Others
+2024-11-28 18:46:38,231 - INFO - Moved 10_29_2024_881_consigned_part_adjustments(duplicate).csv to Others folder
+2024-11-28 18:46:38,232 - INFO - Moved 10_29_2024_881_consigned_part_adjustments(in).csv to Others folder
+2024-11-28 18:46:38,234 - INFO - Moved 1186652-f630a1a8b7443518957f079f3fda3a01ad67e915 to Folders folder
+2024-11-28 18:46:38,235 - INFO - Moved 1186652-f630a1a8b7443518957f079f3fda3a01ad67e915.zip to ZIP_Files folder
+2024-11-28 18:46:38,236 - INFO - Moved 11_04_2024_881_upcoming_consignment_charges.csv to Others folder
+2024-11-28 18:46:38,237 - INFO - Moved 11_04_2024_881_upcoming_consignment_charges_adjustments.csv to Others folder
+2024-11-28 18:46:38,238 - INFO - Moved 128.png to Images folder
+2024-11-28 18:46:38,239 - INFO - Moved 15 Day Work Order Closure Policy.png to Images folder
+2024-11-28 18:46:38,240 - INFO - Moved 159e9838-7cf4-4b19-a513-4d8df98416dd_881_-_Active_Repairs.pdf to Documents folder
+2024-11-28 18:46:38,242 - INFO - Moved 16.png to Images folder
+2024-11-28 18:46:38,243 - INFO - Moved 16957794745.htm to Others folder
+2024-11-28 18:46:38,244 - INFO - Moved 2.jpg to Images folder
+2024-11-28 18:46:38,246 - INFO - Moved 251a97d6f086c784a5f7263c1af92239_compressed.jpg to Images folder
+2024-11-28 18:46:38,247 - INFO - Moved 3 Stage - Device Repair Process_  - Sheet1 (1).pdf to Documents folder
+2024-11-28 18:46:38,248 - INFO - Moved 3 Stage - Device Repair Process_  - Sheet1.pdf to Documents folder
+2024-11-28 18:46:38,249 - INFO - Moved 3 Stage - Device Repair Process_ .xlsx to Documents folder
+2024-11-28 18:46:38,250 - INFO - Moved 3220d405-08dc-48c3-b9c2-0ac4eb035ce7 to Others folder
+2024-11-28 18:46:38,252 - INFO - Moved 4 Employee Expectations 3.pdf to Documents folder
+2024-11-28 18:46:38,253 - INFO - Moved 48.png to Images folder
+2024-11-28 18:46:38,254 - INFO - Moved 4ktokkit_2.7.3_x64_online.exe to Executables folder
+2024-11-28 18:46:38,256 - INFO - Moved 881 UBIF-Chrome Extension (1) to Folders folder
+2024-11-28 18:46:38,257 - INFO - Moved 881 UBIF-Chrome Extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,258 - INFO - Moved 91188503-e56b-4805-8ce8-ccc27b7722b8_Daily_Checklist_(List).pdf to Documents folder
+2024-11-28 18:46:38,259 - INFO - Moved 940b7f5f-6751-49f8-909e-ea57b12f3c7f_Daily_Checklist_(List).pdf to Documents folder
+2024-11-28 18:46:38,260 - INFO - Moved 9ff3c200-d472-4739-bcf6-0192456cddf3_881_-_Active_Repairs.pdf to Documents folder
+2024-11-28 18:46:38,263 - INFO - Moved active-updates-overview.xls to Documents folder
+2024-11-28 18:46:38,264 - INFO - Moved Adding a Google Review QR code to your receipts.pdf to Documents folder
+2024-11-28 18:46:38,265 - INFO - Moved afterplay.io_play_recently-added.png to Images folder
+2024-11-28 18:46:38,267 - INFO - Moved ai_multifunctional_tool_extension to Folders folder
+2024-11-28 18:46:38,268 - INFO - Moved ai_multifunctional_tool_extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,269 - INFO - Moved alexander-shatov-I4p0FcjDBJI-unsplash.jpg to Images folder
+2024-11-28 18:46:38,269 - INFO - Moved amd-software-adrenalin-edition-24.6.1-minimalsetup-240626_web.exe to Executables folder
+2024-11-28 18:46:38,272 - INFO - Moved AnyDesk.exe to Executables folder
+2024-11-28 18:46:38,273 - INFO - Moved apk_loader_extension to Folders folder
+2024-11-28 18:46:38,274 - INFO - Moved apk_loader_extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,275 - INFO - Moved Apple SKU List.numbers to Others folder
+2024-11-28 18:46:38,277 - INFO - Moved Appointment System (Appointy Replica) to Folders folder
+2024-11-28 18:46:38,278 - INFO - Moved Appointment System (Appointy Replica).zip to ZIP_Files folder
+2024-11-28 18:46:38,279 - INFO - Moved Appointment System (Offline Version).html to Code folder
+2024-11-28 18:46:38,281 - INFO - Moved appointment-extension to Folders folder
+2024-11-28 18:46:38,283 - INFO - Moved appointment-system to Folders folder
+2024-11-28 18:46:38,284 - INFO - Moved appointment-system.zip to ZIP_Files folder
+2024-11-28 18:46:38,285 - INFO - Moved August - September (Updated Schedule) to Folders folder
+2024-11-28 18:46:38,286 - INFO - Moved August - Week-2 - UBIF Schedule 1.png to Images folder
+2024-11-28 18:46:38,287 - INFO - Moved August - Week-3 - UBIF Schedule 1.png to Images folder
+2024-11-28 18:46:38,288 - INFO - Moved August - Week-4 - UBIF Schedule 1.png to Images folder
+2024-11-28 18:46:38,289 - INFO - Moved Avery - Tardiness and Extended Breaks - 5-25-24.pdf to Documents folder
+2024-11-28 18:46:38,290 - INFO - Moved BARCODE_00000-00000000.png to Images folder
+2024-11-28 18:46:38,292 - INFO - Moved BARCODE_123456789123.png to Images folder
+2024-11-28 18:46:38,293 - INFO - Moved BARCODE_127486-56515165.png to Images folder
+2024-11-28 18:46:38,294 - INFO - Moved Battle.net-Setup.exe to Executables folder
+2024-11-28 18:46:38,295 - INFO - Moved BBY Interview Packet.pdf to Documents folder
+2024-11-28 18:46:38,297 - INFO - Moved Best Buy Receipt.png to Images folder
+2024-11-28 18:46:38,298 - INFO - Moved better layout.png to Images folder
+2024-11-28 18:46:38,299 - INFO - Moved blue notepad title and blue line next to write note here but on left side of page.png to Images folder
+2024-11-28 18:46:38,300 - INFO - Moved BlueStacksFullInstaller_5.21.600.1019_amd64_native.exe to Executables folder
+2024-11-28 18:46:38,302 - INFO - Moved Bluetooth Headset.png to Images folder
+2024-11-28 18:46:38,303 - INFO - Moved bookmarks (1).html to Code folder
+2024-11-28 18:46:38,304 - INFO - Moved bookmarks (2).html to Code folder
+2024-11-28 18:46:38,305 - INFO - Moved bookmarks.html to Code folder
+2024-11-28 18:46:38,306 - INFO - Moved bookmarks_10_27_24.html to Code folder
+2024-11-28 18:46:38,307 - INFO - Moved Brian's Queue List - UBIF.png to Images folder
+2024-11-28 18:46:38,308 - INFO - Moved Car Maintenance Cheatsheet.jpg to Images folder
+2024-11-28 18:46:38,309 - INFO - Moved ccsetup625.exe to Executables folder
+2024-11-28 18:46:38,310 - INFO - Moved ccsetup629.zip to ZIP_Files folder
+2024-11-28 18:46:38,313 - INFO - Moved ceo@kaywat.me - Spotify Premium - Key.pdf to Documents folder
+2024-11-28 18:46:38,314 - INFO - Moved change-maker-screenshot (1).png to Images folder
+2024-11-28 18:46:38,315 - INFO - Moved change-maker-screenshot.png to Images folder
+2024-11-28 18:46:38,316 - INFO - Moved Chargeback Calendar (Offline).zip to ZIP_Files folder
+2024-11-28 18:46:38,316 - INFO - Moved Chargeback DupFinder.zip to ZIP_Files folder
+2024-11-28 18:46:38,317 - INFO - Moved ChatGPT Note - UBIF Extension.txt to Documents folder
+2024-11-28 18:46:38,318 - INFO - Moved Check In IMEI Doesnt Match Lead-How To.pdf to Documents folder
+2024-11-28 18:46:38,319 - INFO - Moved CHIME_5.0.9.apk to Others folder
+2024-11-28 18:46:38,320 - INFO - Moved Chris Loetz Resume (1).pdf to Documents folder
+2024-11-28 18:46:38,322 - INFO - Moved Chrome Extension Builder Python Script.py to Code folder
+2024-11-28 18:46:38,323 - INFO - Moved chrome-lock to Folders folder
+2024-11-28 18:46:38,324 - INFO - Moved chrome-lock - (icons).zip to ZIP_Files folder
+2024-11-28 18:46:38,325 - INFO - Moved chrome-lock.zip to ZIP_Files folder
+2024-11-28 18:46:38,326 - INFO - Moved ChromeSetup.exe to Executables folder
+2024-11-28 18:46:38,327 - INFO - Moved chrome_extension (1) to Folders folder
+2024-11-28 18:46:38,329 - INFO - Moved chrome_extension (1).zip to ZIP_Files folder
+2024-11-28 18:46:38,330 - INFO - Moved chrome_extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,332 - INFO - Moved CODE128_12 (1).png to Images folder
+2024-11-28 18:46:38,333 - INFO - Moved CODE128_12.png to Images folder
+2024-11-28 18:46:38,334 - INFO - Moved CODE128_123456789123.png to Images folder
+2024-11-28 18:46:38,335 - INFO - Moved code_image (1).png to Images folder
+2024-11-28 18:46:38,336 - INFO - Moved code_image (2).png to Images folder
+2024-11-28 18:46:38,337 - INFO - Moved code_image (3).png to Images folder
+2024-11-28 18:46:38,339 - INFO - Moved code_image (4).png to Images folder
+2024-11-28 18:46:38,339 - INFO - Moved code_image (5).png to Images folder
+2024-11-28 18:46:38,342 - INFO - Moved code_image (6).png to Images folder
+2024-11-28 18:46:38,342 - INFO - Moved code_image (7).png to Images folder
+2024-11-28 18:46:38,343 - INFO - Moved code_image (8).png to Images folder
+2024-11-28 18:46:38,344 - INFO - Moved code_image (9).png to Images folder
+2024-11-28 18:46:38,345 - INFO - Moved code_image(1).png to Images folder
+2024-11-28 18:46:38,347 - INFO - Moved code_image.png to Images folder
+2024-11-28 18:46:38,348 - INFO - Moved CombinedPriceSheetOverlayExtension to Folders folder
+2024-11-28 18:46:38,349 - INFO - Moved CombinedPriceSheetOverlayExtension.zip to ZIP_Files folder
+2024-11-28 18:46:38,350 - INFO - Moved crx_downloader to Folders folder
+2024-11-28 18:46:38,352 - INFO - Moved Daily_Checklist_(List).pdf to Documents folder
+2024-11-28 18:46:38,353 - INFO - Moved DALL·E 2024-11-04 05.23.31 - A cover image for a blog article on creating a password-protected folder in Windows. The image should depict a computer folder with a lock icon on it,.webp to Images folder
+2024-11-28 18:46:38,354 - INFO - Moved DALL·E 2024-11-04 05.24.57 - A cover image for a blog article on creating a password-protected folder in Windows. The image should depict a computer folder with a lock icon on it,.webp to Images folder
+2024-11-28 18:46:38,355 - INFO - Moved DALL·E 2024-11-12 20.37.21 - A sleek, modern icon for a Chrome extension named 'Order Parts.' The icon should depict a gear or wrench symbol to represent parts, combined with a ma.webp to Images folder
+2024-11-28 18:46:38,356 - INFO - Moved DALL·E 2024-11-12 20.39.09 - A sleek, modern icon for a Chrome extension named 'Order Parts.' The icon should depict a gear or wrench symbol to represent parts, combined with a ma.webp to Images folder
+2024-11-28 18:46:38,357 - INFO - Moved DALL·E 2024-11-12 20.52.19 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.png to Images folder
+2024-11-28 18:46:38,359 - INFO - Moved DALL·E 2024-11-12 20.52.19 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.webp to Images folder
+2024-11-28 18:46:38,360 - INFO - Moved DALL·E 2024-11-12 20.52.55 - A marquee-style promo image for a Chrome extension named 'Order Parts,' set on a 1400x560 canvas. The design should feature a larger, detailed version.webp to Images folder
+2024-11-28 18:46:38,364 - INFO - Moved DALL·E 2024-11-13 09.51.50 - Create a modern, minimalistic lock icon with a padlock design for a Chrome extension. The lock should be represented in a sleek, dark gray or black co.webp to Images folder
+2024-11-28 18:46:38,365 - INFO - Moved DALL·E 2024-11-13 09.53.07 - Design a simple, modern padlock icon for a Chrome extension with a bold lock outline, emphasizing security and privacy. Use dark gray or black for the.webp to Images folder
+2024-11-28 18:46:38,366 - INFO - Moved DALL·E 2024-11-13 09.54.06 - Create a Chrome extension icon featuring a modern padlock with a folder behind it, symbolizing secure access to files. The padlock should be dark gray.webp to Images folder
+2024-11-28 18:46:38,367 - INFO - Moved dark-mode-notepad-extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,368 - INFO - Moved Dell Repair Workflow.png to Images folder
+2024-11-28 18:46:38,369 - INFO - Moved Dentist Appointment.pdf to Documents folder
+2024-11-28 18:46:38,370 - INFO - Moved Device Check-In Form QR Code.png to Images folder
+2024-11-28 18:46:38,371 - INFO - Moved Digital Checklist.png to Images folder
+2024-11-28 18:46:38,374 - INFO - Moved do eLearnings.png to Images folder
+2024-11-28 18:46:38,375 - INFO - Moved download (1).png to Images folder
+2024-11-28 18:46:38,376 - INFO - Moved download.jfif to Others folder
+2024-11-28 18:46:38,377 - INFO - Moved download.png to Images folder
+2024-11-28 18:46:38,378 - INFO - Moved Email to Folders folder
+2024-11-28 18:46:38,380 - INFO - Moved enhanced_qr_scanner_files to Folders folder
+2024-11-28 18:46:38,382 - INFO - Moved enhanced_qr_scanner_files.zip to ZIP_Files folder
+2024-11-28 18:46:38,384 - INFO - Moved EpicInstaller-15.17.1.msi to Executables folder
+2024-11-28 18:46:38,385 - INFO - Moved example 1.png to Images folder
+2024-11-28 18:46:38,386 - INFO - Moved example 2 - model is sku is what user searched is url searched sku is model.png to Images folder
+2024-11-28 18:46:38,387 - INFO - Moved example photo.png to Images folder
+2024-11-28 18:46:38,388 - INFO - Moved example.png to Images folder
+2024-11-28 18:46:38,390 - INFO - Moved export-ms-teams-chats-main to Folders folder
+2024-11-28 18:46:38,391 - INFO - Moved export-ms-teams-chats-main.zip to ZIP_Files folder
+2024-11-28 18:46:38,392 - INFO - Moved Extension Export 2024-07-28 10_01_55.html to Code folder
+2024-11-28 18:46:38,394 - INFO - Moved Extension Export 2024-08-11 22_50_15.html to Code folder
+2024-11-28 18:46:38,395 - INFO - Moved file (1) (1).png to Images folder
+2024-11-28 18:46:38,397 - INFO - Moved file (1).png to Images folder
+2024-11-28 18:46:38,398 - INFO - Moved file (2).png to Images folder
+2024-11-28 18:46:38,398 - INFO - Moved file (3).png to Images folder
+2024-11-28 18:46:38,400 - INFO - Moved file (4).png to Images folder
+2024-11-28 18:46:38,401 - INFO - Moved file (5).png to Images folder
+2024-11-28 18:46:38,402 - INFO - Moved file-organizer-thing (Move Files).exe to Executables folder
+2024-11-28 18:46:38,404 - INFO - Moved file.png to Images folder
+2024-11-28 18:46:38,405 - INFO - Moved FileOrganizerThing.zip to ZIP_Files folder
+2024-11-28 18:46:38,406 - INFO - Moved Finding an Insurance Claim or In-Warranty Lead ( POS ) (1).pdf to Documents folder
+2024-11-28 18:46:38,409 - INFO - Moved fontawesome-free-6.6.0-desktop to Folders folder
+2024-11-28 18:46:38,410 - INFO - Moved fontawesome-free-6.6.0-desktop.zip to ZIP_Files folder
+2024-11-28 18:46:38,413 - INFO - Moved fontawesome-free-6.6.0-web to Folders folder
+2024-11-28 18:46:38,415 - INFO - Moved fontawesome-free-6.6.0-web.zip to ZIP_Files folder
+2024-11-28 18:46:38,416 - INFO - Moved Format Factory (media converter).exe to Executables folder
+2024-11-28 18:46:38,417 - INFO - Moved formData (1).txt to Documents folder
+2024-11-28 18:46:38,417 - INFO - Moved formData (2).txt to Documents folder
+2024-11-28 18:46:38,418 - INFO - Moved formData.txt to Documents folder
+2024-11-28 18:46:38,419 - INFO - Moved Gainesville GA Bookmarks.html to Code folder
+2024-11-28 18:46:38,420 - INFO - Moved GOG_Galaxy_2.0.exe to Executables folder
+2024-11-28 18:46:38,421 - INFO - Moved Google Price Sheet.xlsx to Documents folder
+2024-11-28 18:46:38,422 - INFO - Moved Google-Forms-Responses-To-Docs-master.zip to ZIP_Files folder
+2024-11-28 18:46:38,422 - INFO - Moved Google_Blog_Cover_Art.png to Images folder
+2024-11-28 18:46:38,425 - INFO - Moved gs-auto-clicker (Macro).exe to Executables folder
+2024-11-28 18:46:38,426 - INFO - Moved gsap-public to Folders folder
+2024-11-28 18:46:38,427 - INFO - Moved gsap-public.zip to ZIP_Files folder
+2024-11-28 18:46:38,428 - INFO - Moved GSPN - Submitting a Level S2+ Certificate Renewal (1).pdf to Documents folder
+2024-11-28 18:46:38,429 - INFO - Moved GSPN - Submitting a Level S2+ Certificate Renewal.pdf to Documents folder
+2024-11-28 18:46:38,430 - INFO - Moved GVTech Hub - Chrome Extension Pack.zip to ZIP_Files folder
+2024-11-28 18:46:38,432 - INFO - Moved GVTECH HUB - PRIVATE PAGES.drawio.png to Images folder
+2024-11-28 18:46:38,435 - INFO - Moved GVTech Hub Domain Purchase.pdf to Documents folder
+2024-11-28 18:46:38,437 - INFO - Moved GVTechHub_Extension to Folders folder
+2024-11-28 18:46:38,438 - INFO - Moved GVTechHub_Extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,439 - INFO - Moved Gym Plan.pdf to Documents folder
+2024-11-28 18:46:38,440 - INFO - Moved HDClone.X.5.FE.en.Setup.exe to Executables folder
+2024-11-28 18:46:38,440 - INFO - Moved Hospital Bill (Back).pdf to Documents folder
+2024-11-28 18:46:38,441 - INFO - Moved Hospital Bill (Front).pdf to Documents folder
+2024-11-28 18:46:38,443 - INFO - Moved icons to Folders folder
+2024-11-28 18:46:38,445 - INFO - Moved iiw.jfif to Others folder
+2024-11-28 18:46:38,446 - INFO - Moved ikigai Tattoo.jpg to Images folder
+2024-11-28 18:46:38,447 - INFO - Moved image (1) 1.png to Images folder
+2024-11-28 18:46:38,448 - INFO - Moved image (1).png to Images folder
+2024-11-28 18:46:38,449 - INFO - Moved image (10).png to Images folder
+2024-11-28 18:46:38,450 - INFO - Moved image (11).png to Images folder
+2024-11-28 18:46:38,451 - INFO - Moved image (13).png to Images folder
+2024-11-28 18:46:38,452 - INFO - Moved image (14).png to Images folder
+2024-11-28 18:46:38,452 - INFO - Moved image (15).png to Images folder
+2024-11-28 18:46:38,455 - INFO - Moved image (16).png to Images folder
+2024-11-28 18:46:38,456 - INFO - Moved image (17).png to Images folder
+2024-11-28 18:46:38,457 - INFO - Moved image (18).png to Images folder
+2024-11-28 18:46:38,458 - INFO - Moved Image (2).png to Images folder
+2024-11-28 18:46:38,459 - INFO - Moved Image (3).png to Images folder
+2024-11-28 18:46:38,460 - INFO - Moved Image (4).png to Images folder
+2024-11-28 18:46:38,461 - INFO - Moved Image (5).png to Images folder
+2024-11-28 18:46:38,462 - INFO - Moved image (6).png to Images folder
+2024-11-28 18:46:38,464 - INFO - Moved image (7).png to Images folder
+2024-11-28 18:46:38,466 - INFO - Moved image (8).png to Images folder
+2024-11-28 18:46:38,466 - INFO - Moved image (9).png to Images folder
+2024-11-28 18:46:38,467 - INFO - Moved image 1.png to Images folder
+2024-11-28 18:46:38,468 - INFO - Moved image.png to Images folder
+2024-11-28 18:46:38,469 - INFO - Moved images (1).png to Images folder
+2024-11-28 18:46:38,470 - INFO - Moved Important Information About This Part.png to Images folder
+2024-11-28 18:46:38,471 - INFO - Moved Install iCUE.exe to Executables folder
+2024-11-28 18:46:38,472 - INFO - Moved iobituninstaller.exe to Executables folder
+2024-11-28 18:46:38,473 - INFO - Moved item not received - kennedy cutshall - replacement device.png to Images folder
+2024-11-28 18:46:38,475 - INFO - Moved IW - In Warranty - Logo.png to Images folder
+2024-11-28 18:46:38,476 - INFO - Moved Jack Dooley - Photo 2.png to Images folder
+2024-11-28 18:46:38,477 - INFO - Moved Jack Dooley - Screen Recording.mp4 to Video folder
+2024-11-28 18:46:38,478 - INFO - Moved Jack Dooley.png to Images folder
+2024-11-28 18:46:38,479 - INFO - Moved Jagex Launcher Installer.exe to Executables folder
+2024-11-28 18:46:38,481 - INFO - Moved Joseph Green - Coaching Form.pdf to Documents folder
+2024-11-28 18:46:38,482 - INFO - Moved Laptop Stand - Macbook Pro 15.png to Images folder
+2024-11-28 18:46:38,483 - INFO - Moved Life Tattoo.jfif to Others folder
+2024-11-28 18:46:38,485 - INFO - Moved Linkedin Photo.jfif to Others folder
+2024-11-28 18:46:38,486 - INFO - Moved Logging into POS.pdf to Documents folder
+2024-11-28 18:46:38,487 - INFO - Moved Logii Browser Agency v1.8.8 Full Activated - WwW.Dr-FarFar.CoM.zip to ZIP_Files folder
+2024-11-28 18:46:38,488 - INFO - Moved Logo-Search-Google--on-transparent-background-PNG.png to Images folder
+2024-11-28 18:46:38,489 - INFO - Moved Macrium Reflect (System Imaging).exe to Executables folder
+2024-11-28 18:46:38,490 - INFO - Moved Magical Text Expander Check-In Notes Tutorial 3.pdf to Documents folder
+2024-11-28 18:46:38,491 - INFO - Moved Mail - Loetz, Chris - Outlook.pdf to Documents folder
+2024-11-28 18:46:38,492 - INFO - Moved MBSetup.exe to Executables folder
+2024-11-28 18:46:38,493 - INFO - Moved Media (1).jfif to Others folder
+2024-11-28 18:46:38,495 - INFO - Moved Media (2).jfif to Others folder
+2024-11-28 18:46:38,497 - INFO - Moved Media (3).jfif to Others folder
+2024-11-28 18:46:38,498 - INFO - Moved Media (4).jfif to Others folder
+2024-11-28 18:46:38,499 - INFO - Moved Media (5).jfif to Others folder
+2024-11-28 18:46:38,500 - INFO - Moved Media (6).jfif to Others folder
+2024-11-28 18:46:38,501 - INFO - Moved Media (7).jfif to Others folder
+2024-11-28 18:46:38,502 - INFO - Moved Media.jfif to Others folder
+2024-11-28 18:46:38,503 - INFO - Moved microsoft-teams-chat-extractor-main to Folders folder
+2024-11-28 18:46:38,505 - INFO - Moved microsoft-teams-chat-extractor-main (1) to Folders folder
+2024-11-28 18:46:38,506 - INFO - Moved microsoft-teams-chat-extractor-main (1).zip to ZIP_Files folder
+2024-11-28 18:46:38,507 - INFO - Moved microsoft-teams-chat-extractor-main.zip to ZIP_Files folder
+2024-11-28 18:46:38,508 - INFO - Moved modified_extension to Folders folder
+2024-11-28 18:46:38,509 - INFO - Moved modified_extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,510 - INFO - Moved Monthly Calendar Reparis To Date (08-24-24).pdf to Documents folder
+2024-11-28 18:46:38,511 - INFO - Moved MouseWithoutBordersSetup.msi to Executables folder
+2024-11-28 18:46:38,513 - INFO - Moved Move Files - File Organizer to Folders folder
+2024-11-28 18:46:38,515 - INFO - Moved MW - Max Trade Credit Amount - UBIF.png to Images folder
+2024-11-28 18:46:38,516 - INFO - Moved NDI 6 Tools.exe to Executables folder
+2024-11-28 18:46:38,517 - INFO - Moved New Offline WO Form 2022.pdf to Documents folder
+2024-11-28 18:46:38,519 - INFO - Moved New tab.htm to Others folder
+2024-11-28 18:46:38,520 - INFO - Moved New tab_files to Folders folder
+2024-11-28 18:46:38,522 - INFO - Moved NH Evo Leader Guide.pdf to Documents folder
+2024-11-28 18:46:38,523 - INFO - Moved North Side Hospital Bill Notice.pdf to Documents folder
+2024-11-28 18:46:38,525 - INFO - Moved not right proportion.png to Images folder
+2024-11-28 18:46:38,526 - INFO - Moved note (1).pdf to Documents folder
+2024-11-28 18:46:38,527 - INFO - Moved note (2).pdf to Documents folder
+2024-11-28 18:46:38,528 - INFO - Moved note (3).pdf to Documents folder
+2024-11-28 18:46:38,529 - INFO - Moved note (4).pdf to Documents folder
+2024-11-28 18:46:38,530 - INFO - Moved note (5).pdf to Documents folder
+2024-11-28 18:46:38,531 - INFO - Moved note (6).pdf to Documents folder
+2024-11-28 18:46:38,532 - INFO - Moved note.pdf to Documents folder
+2024-11-28 18:46:38,533 - INFO - Moved notepad color theme.png to Images folder
+2024-11-28 18:46:38,535 - INFO - Moved Notepad Widget (GVTech Hub) - App [ Final ].html to Code folder
+2024-11-28 18:46:38,536 - INFO - Moved notes_backup (1).json to Code folder
+2024-11-28 18:46:38,537 - INFO - Moved notes_backup (2).json to Code folder
+2024-11-28 18:46:38,537 - INFO - Moved notes_backup (3).json to Code folder
+2024-11-28 18:46:38,538 - INFO - Moved notes_backup(1).json to Code folder
+2024-11-28 18:46:38,539 - INFO - Moved notes_backup.json to Code folder
+2024-11-28 18:46:38,540 - INFO - Moved note_1 (1).txt to Documents folder
+2024-11-28 18:46:38,541 - INFO - Moved note_1 (2).txt to Documents folder
+2024-11-28 18:46:38,541 - INFO - Moved note_1.txt to Documents folder
+2024-11-28 18:46:38,542 - INFO - Moved note_3.txt to Documents folder
+2024-11-28 18:46:38,543 - INFO - Moved obs-ndi-4.13.0-windows-x64-Installer.exe to Executables folder
+2024-11-28 18:46:38,545 - INFO - Moved obs-ndi-4.13.2-windows-x64-Installer.exe to Executables folder
+2024-11-28 18:46:38,546 - INFO - Moved OBS-Studio-30.1.2-Full-Installer-x64.exe to Executables folder
+2024-11-28 18:46:38,548 - INFO - Moved OCT-FY24 - CHARGEBACKS-20241031T134026Z-001 to Folders folder
+2024-11-28 18:46:38,548 - INFO - Moved OCT-FY24 - CHARGEBACKS-20241031T134026Z-001.zip to ZIP_Files folder
+2024-11-28 18:46:38,550 - INFO - Moved Offline_Parts_List.html to Code folder
+2024-11-28 18:46:38,551 - INFO - Moved offline_shopping_list_2024-11-04T12-30-01-314Z.html to Code folder
+2024-11-28 18:46:38,552 - INFO - Moved offline_shopping_list_2024-11-04T12-41-09-278Z.html to Code folder
+2024-11-28 18:46:38,553 - INFO - Moved offline_shopping_list_2024-11-04T12-42-05-138Z.html to Code folder
+2024-11-28 18:46:38,555 - INFO - Moved olivier-bergeron-5JSZzMilCVo-unsplash.jpg to Images folder
+2024-11-28 18:46:38,556 - INFO - Moved oow.png to Images folder
+2024-11-28 18:46:38,558 - INFO - Moved Open Kiosk (Portable) to Folders folder
+2024-11-28 18:46:38,559 - INFO - Moved OpenKIOSK - Kiosk Browser.zip to ZIP_Files folder
+2024-11-28 18:46:38,560 - INFO - Moved OpenKiosk - READ ME - GVTech Hub.pdf to Documents folder
+2024-11-28 18:46:38,561 - INFO - Moved OpenKiosk115.12.0-2024-06-25-x86_64 (1).msi to Executables folder
+2024-11-28 18:46:38,562 - INFO - Moved OpenKiosk115.12.0-2024-06-25-x86_64.msi to Executables folder
+2024-11-28 18:46:38,563 - INFO - Moved Operational Manual.pdf to Documents folder
+2024-11-28 18:46:38,566 - INFO - Moved Order Parts (Multi-Site Search) to Folders folder
+2024-11-28 18:46:38,567 - INFO - Moved Order Parts (Multi-Site Search).zip to ZIP_Files folder
+2024-11-28 18:46:38,568 - INFO - Moved Order Parts (UBIF) (1).png to Images folder
+2024-11-28 18:46:38,568 - INFO - Moved Order Parts (UBIF).png to Images folder
+2024-11-28 18:46:38,569 - INFO - Moved Order Parts - Screenshot-1.png to Images folder
+2024-11-28 18:46:38,570 - INFO - Moved Order Parts - Screenshot-2.png to Images folder
+2024-11-28 18:46:38,571 - INFO - Moved Order Parts - Screenshot-3.png to Images folder
+2024-11-28 18:46:38,572 - INFO - Moved Order Parts - Screenshot-4.png to Images folder
+2024-11-28 18:46:38,573 - INFO - Moved Order Parts - Screenshot-5.png to Images folder
+2024-11-28 18:46:38,574 - INFO - Moved Order_Parts_Marquee_Promo_1400x560.png to Images folder
+2024-11-28 18:46:38,576 - INFO - Moved Order_Parts_Promo_Tile_440x280.png to Images folder
+2024-11-28 18:46:38,577 - INFO - Moved Order_Parts_Resized_Screenshot_1.png to Images folder
+2024-11-28 18:46:38,577 - INFO - Moved Order_Parts_Resized_Screenshot_2.png to Images folder
+2024-11-28 18:46:38,578 - INFO - Moved Order_Parts_Resized_Screenshot_3.png to Images folder
+2024-11-28 18:46:38,580 - INFO - Moved Order_Parts_Resized_Screenshot_4.png to Images folder
+2024-11-28 18:46:38,581 - INFO - Moved Order_Parts_Resized_Screenshot_5.png to Images folder
+2024-11-28 18:46:38,582 - INFO - Moved OT - SALARY - Screenshot with Charts - overtime_results_2024-11-20 (18).png to Images folder
+2024-11-28 18:46:38,583 - INFO - Moved OT - Screenshot with Charts - overtime_results_2024-11-20 (18).png to Images folder
+2024-11-28 18:46:38,584 - INFO - Moved out of frame.png to Images folder
+2024-11-28 18:46:38,586 - INFO - Moved OverlayPopupExtension.zip to ZIP_Files folder
+2024-11-28 18:46:38,587 - INFO - Moved PapaParse-master to Folders folder
+2024-11-28 18:46:38,588 - INFO - Moved PapaParse-master.zip to ZIP_Files folder
+2024-11-28 18:46:38,589 - INFO - Moved Part Needing Ordered - Uknown part - 1 metal prong on side vs 2.jpeg to Images folder
+2024-11-28 18:46:38,590 - INFO - Moved Part Ordered - Wrong Part.jpeg to Images folder
+2024-11-28 18:46:38,591 - INFO - Moved Paul Petty - Discount.png to Images folder
+2024-11-28 18:46:38,592 - INFO - Moved Paul Petty.png to Images folder
+2024-11-28 18:46:38,592 - INFO - Moved Pay Period 19 - Break Interrupted - Orly Called.png to Images folder
+2024-11-28 18:46:38,593 - INFO - Moved Pay Period 19 - Break Interrupted - Orly Messaged Me.png to Images folder
+2024-11-28 18:46:38,596 - INFO - Moved Paycheck Calculator - Calculate Hourly Pay _ Gusto.html to Code folder
+2024-11-28 18:46:38,599 - INFO - Moved Paycheck Calculator - Calculate Hourly Pay _ Gusto_files to Folders folder
+2024-11-28 18:46:38,600 - INFO - Moved PaychecksList_2024-10-01_2024-12-31 (1).pdf to Documents folder
+2024-11-28 18:46:38,601 - INFO - Moved PaychecksList_2024-10-01_2024-12-31.pdf to Documents folder
+2024-11-28 18:46:38,602 - INFO - Moved Paycheck_2024-11-15.pdf to Documents folder
+2024-11-28 18:46:38,602 - INFO - Moved paycheck_calculator_screenshot.png to Images folder
+2024-11-28 18:46:38,603 - INFO - Moved paystub_backup.json to Code folder
+2024-11-28 18:46:38,605 - INFO - Moved paystub_organizer_settings_backup.json to Code folder
+2024-11-28 18:46:38,607 - INFO - Moved phonto.PNG to Images folder
+2024-11-28 18:46:38,608 - INFO - Moved plutonium.exe to Executables folder
+2024-11-28 18:46:38,609 - INFO - Moved PortableApps.com_Platform_Setup_29.5.3.paf.exe to Executables folder
+2024-11-28 18:46:38,610 - INFO - Moved portal.ubif.net_ (1).png to Images folder
+2024-11-28 18:46:38,611 - INFO - Moved portal.ubif.net_ (2).png to Images folder
+2024-11-28 18:46:38,612 - INFO - Moved portal.ubif.net_ (3).png to Images folder
+2024-11-28 18:46:38,613 - INFO - Moved portal.ubif.net_ (4).png to Images folder
+2024-11-28 18:46:38,616 - INFO - Moved portal.ubif.net_ (5).png to Images folder
+2024-11-28 18:46:38,617 - INFO - Moved portal.ubif.net_ (6).png to Images folder
+2024-11-28 18:46:38,618 - INFO - Moved portal.ubif.net_ (7).png to Images folder
+2024-11-28 18:46:38,619 - INFO - Moved portal.ubif.net_.png to Images folder
+2024-11-28 18:46:38,620 - INFO - Moved POS - GVTech HUB to Folders folder
+2024-11-28 18:46:38,621 - INFO - Moved POS - GVTech HUB.zip to ZIP_Files folder
+2024-11-28 18:46:38,622 - INFO - Moved Possible Out-of-Scope Repair .png to Images folder
+2024-11-28 18:46:38,623 - INFO - Moved Price Calculator Extension to Folders folder
+2024-11-28 18:46:38,624 - INFO - Moved Price Calculator.html to Code folder
+2024-11-28 18:46:38,626 - INFO - Moved Price Sheet Extension to Folders folder
+2024-11-28 18:46:38,627 - INFO - Moved price-sheets-extension to Folders folder
+2024-11-28 18:46:38,629 - INFO - Moved PriceSheetOverlayExtension to Folders folder
+2024-11-28 18:46:38,630 - INFO - Moved PriceSheetOverlayExtension.zip to ZIP_Files folder
+2024-11-28 18:46:38,631 - INFO - Moved PriceSheetWidget_Extension to Folders folder
+2024-11-28 18:46:38,632 - INFO - Moved PriceSheetWidget_Extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,633 - INFO - Moved Printe Receipt.png to Images folder
+2024-11-28 18:46:38,635 - INFO - Moved prompts.csv to Others folder
+2024-11-28 18:46:38,636 - INFO - Moved Python script for price sheet extension.py to Code folder
+2024-11-28 18:46:38,637 - INFO - Moved python-3.13.0-amd64.exe to Executables folder
+2024-11-28 18:46:38,638 - INFO - Moved QR_00000-00000000.txt to Documents folder
+2024-11-28 18:46:38,639 - INFO - Moved QR_Code_00000-00000000 (1).png to Images folder
+2024-11-28 18:46:38,640 - INFO - Moved QR_Code_00000-00000000.png to Images folder
+2024-11-28 18:46:38,641 - INFO - Moved QR_Code_123456789123.png to Images folder
+2024-11-28 18:46:38,642 - INFO - Moved QR_Code_127486-56515165 (1).png to Images folder
+2024-11-28 18:46:38,642 - INFO - Moved QR_Code_127486-56515165.png to Images folder
+2024-11-28 18:46:38,643 - INFO - Moved RazerSynapseInstaller_V1.17.0.600 (1).err to Others folder
+2024-11-28 18:46:38,644 - INFO - Moved RazerSynapseInstaller_V1.17.0.600 (1).exe to Executables folder
+2024-11-28 18:46:38,647 - INFO - Moved RazerSynapseInstaller_V1.17.0.600.err to Others folder
+2024-11-28 18:46:38,648 - INFO - Moved RazerSynapseInstaller_V1.17.0.600.exe to Executables folder
+2024-11-28 18:46:38,649 - INFO - Moved Receiving Inventory UBIF Distro Purchase.pdf to Documents folder
+2024-11-28 18:46:38,650 - INFO - Moved red-angry-sad-face-negative-people-emotion-icon-vector-14659112.jpg to Images folder
+2024-11-28 18:46:38,651 - INFO - Moved redux-master.zip to ZIP_Files folder
+2024-11-28 18:46:38,652 - INFO - Moved Refund Tracking - Completing Forms For Review.png to Images folder
+2024-11-28 18:46:38,653 - INFO - Moved Repair Appointments Not Set.png to Images folder
+2024-11-28 18:46:38,654 - INFO - Moved Repair Appointments.png to Images folder
+2024-11-28 18:46:38,655 - INFO - Moved Repair Queue - 46 down to 19 (1).png to Images folder
+2024-11-28 18:46:38,657 - INFO - Moved Repair Queue - 46 down to 19.png to Images folder
+2024-11-28 18:46:38,658 - INFO - Moved repair-price-calculator (1).png to Images folder
+2024-11-28 18:46:38,659 - INFO - Moved repair-price-calculator (2).png to Images folder
+2024-11-28 18:46:38,660 - INFO - Moved repair-price-calculator (3).png to Images folder
+2024-11-28 18:46:38,661 - INFO - Moved repair-price-calculator (4).png to Images folder
+2024-11-28 18:46:38,663 - INFO - Moved repair-price-calculator (5).png to Images folder
+2024-11-28 18:46:38,664 - INFO - Moved repair-price-calculator (6).png to Images folder
+2024-11-28 18:46:38,665 - INFO - Moved repair-price-calculator.png to Images folder
+2024-11-28 18:46:38,667 - INFO - Moved Resuming Suspended Work Orders - Quotes ( POS ).pdf to Documents folder
+2024-11-28 18:46:38,668 - INFO - Moved Revenue Made on Sunday (1).png to Images folder
+2024-11-28 18:46:38,668 - INFO - Moved Revenue Made on Sunday.png to Images folder
+2024-11-28 18:46:38,669 - INFO - Moved Revenue to Goal.png to Images folder
+2024-11-28 18:46:38,670 - INFO - Moved review.pdf to Documents folder
+2024-11-28 18:46:38,671 - INFO - Moved Sales Lead Interview Packet.pdf to Documents folder
+2024-11-28 18:46:38,672 - INFO - Moved Samsung Level S2 Submission Guide.pdf to Documents folder
+2024-11-28 18:46:38,672 - INFO - Moved Samsung US MSRP Price Sheet (New).xlsx to Documents folder
+2024-11-28 18:46:38,673 - INFO - Moved Screenshot 2024-08-09 235859.png to Images folder
+2024-11-28 18:46:38,674 - INFO - Moved Screenshot 2024-08-10 001437.png to Images folder
+2024-11-28 18:46:38,675 - INFO - Moved September - Week-1 - UBIF Schedule 1.png to Images folder
+2024-11-28 18:46:38,677 - INFO - Moved September - Week-2 - UBIF Schedule 1.png to Images folder
+2024-11-28 18:46:38,678 - INFO - Moved September - Week-3 - UBIF Schedule 1.png to Images folder
+2024-11-28 18:46:38,679 - INFO - Moved Set Password - Rename File (1).txt to Documents folder
+2024-11-28 18:46:38,680 - INFO - Moved Set Password - Rename File (2).txt to Documents folder
+2024-11-28 18:46:38,681 - INFO - Moved Set Password - Rename File (3).txt to Documents folder
+2024-11-28 18:46:38,682 - INFO - Moved Set Password - Rename File.txt to Documents folder
+2024-11-28 18:46:38,683 - INFO - Moved Set-password-for-your-browser-chrome-lock-Chrome-Web-Store.zip to ZIP_Files folder
+2024-11-28 18:46:38,684 - INFO - Moved shared image.jfif to Others folder
+2024-11-28 18:46:38,685 - INFO - Moved sheetjs-github to Folders folder
+2024-11-28 18:46:38,687 - INFO - Moved sheetjs-github (1) to Folders folder
+2024-11-28 18:46:38,688 - INFO - Moved sheetjs-github (1).zip to ZIP_Files folder
+2024-11-28 18:46:38,689 - INFO - Moved sheetjs-github.zip to ZIP_Files folder
+2024-11-28 18:46:38,690 - INFO - Moved shopping_list_2024-11-04T12-30-13-889Z.csv to Others folder
+2024-11-28 18:46:38,691 - INFO - Moved shopping_list_2024-11-04T12-42-02-260Z.csv to Others folder
+2024-11-28 18:46:38,691 - INFO - Moved shopping_list_2024-11-04T12-42-04-273Z.txt to Documents folder
+2024-11-28 18:46:38,692 - INFO - Moved shortcutkeys.json to Code folder
+2024-11-28 18:46:38,694 - INFO - Moved single-file-export-chat-main to Folders folder
+2024-11-28 18:46:38,695 - INFO - Moved single-file-export-chat-main.zip to ZIP_Files folder
+2024-11-28 18:46:38,697 - INFO - Moved sites.google.com_view_gvtechhub (1).png to Images folder
+2024-11-28 18:46:38,698 - INFO - Moved sites.google.com_view_gvtechhub.png to Images folder
+2024-11-28 18:46:38,700 - INFO - Moved Smart Text Expander to Folders folder
+2024-11-28 18:46:38,702 - INFO - Moved Smart Text Expander (Windows App) to Folders folder
+2024-11-28 18:46:38,703 - INFO - Moved Smart Text Expander (Windows App).zip to ZIP_Files folder
+2024-11-28 18:46:38,704 - INFO - Moved Smart Text Expander.zip to ZIP_Files folder
+2024-11-28 18:46:38,706 - INFO - Moved SmartDefragPortable_9.4.0.342.paf.exe to Executables folder
+2024-11-28 18:46:38,708 - INFO - Moved Soldering Equipment.png to Images folder
+2024-11-28 18:46:38,709 - INFO - Moved speed-dial-2-export-2024-07-28 (1).json to Code folder
+2024-11-28 18:46:38,710 - INFO - Moved speed-dial-2-export-2024-07-28.json to Code folder
+2024-11-28 18:46:38,711 - INFO - Moved Staff Login Process-Page-2.drawio.png to Images folder
+2024-11-28 18:46:38,712 - INFO - Moved Star System Descriptiuon.png to Images folder
+2024-11-28 18:46:38,713 - INFO - Moved SteamSetup.exe to Executables folder
+2024-11-28 18:46:38,714 - INFO - Moved Store Device Repair Storage System - UBIF - Store 881 Envision.png to Images folder
+2024-11-28 18:46:38,715 - INFO - Moved Store Management SOP.pdf to Documents folder
+2024-11-28 18:46:38,718 - INFO - Moved store-operations-dashboard to Folders folder
+2024-11-28 18:46:38,719 - INFO - Moved store-operations-dashboard.zip to ZIP_Files folder
+2024-11-28 18:46:38,720 - INFO - Moved Streamlabs+Desktop+Setup+1.16.7-VG2kSlB8uFnyHCC.exe to Executables folder
+2024-11-28 18:46:38,721 - INFO - Moved tabExtend_data_20240804 (1).json to Code folder
+2024-11-28 18:46:38,722 - INFO - Moved tabExtend_data_20240804.json to Code folder
+2024-11-28 18:46:38,724 - INFO - Moved Tartarus - Iron Claw Mouse (KeyBinds) to Folders folder
+2024-11-28 18:46:38,725 - INFO - Moved temp (1).crx to Others folder
+2024-11-28 18:46:38,726 - INFO - Moved temp.crx to Others folder
+2024-11-28 18:46:38,728 - INFO - Moved The Price Sheet (New).xlsx to Documents folder
+2024-11-28 18:46:38,730 - INFO - Moved The Price Sheet Overlay to Folders folder
+2024-11-28 18:46:38,731 - INFO - Moved The Price Sheet Overlay.zip to ZIP_Files folder
+2024-11-28 18:46:38,732 - INFO - Moved this.png to Images folder
+2024-11-28 18:46:38,734 - INFO - Moved TikTok Bot Pro v3.5.6 Full Activated - WwW.Dr-FarFar.CoM.zip to ZIP_Files folder
+2024-11-28 18:46:38,735 - INFO - Moved tiktok_live_studio-v0.59.0-win32-x64.exe to Executables folder
+2024-11-28 18:46:38,737 - INFO - Moved timeclock-payroll-totals_overview_2024-09-30_2024-10-29.xlsx to Documents folder
+2024-11-28 18:46:38,738 - INFO - Moved Timesheet 10-01-24.png to Images folder
+2024-11-28 18:46:38,739 - INFO - Moved To Do Organization.png to Images folder
+2024-11-28 18:46:38,739 - INFO - Moved Todays closed out sales.png to Images folder
+2024-11-28 18:46:38,740 - INFO - Moved triggers (1).csv to Others folder
+2024-11-28 18:46:38,741 - INFO - Moved triggers (2).csv to Others folder
+2024-11-28 18:46:38,742 - INFO - Moved triggers (3).csv to Others folder
+2024-11-28 18:46:38,743 - INFO - Moved triggers (4).csv to Others folder
+2024-11-28 18:46:38,744 - INFO - Moved triggers (5).csv to Others folder
+2024-11-28 18:46:38,746 - INFO - Moved triggers (6).csv to Others folder
+2024-11-28 18:46:38,748 - INFO - Moved triggers (7).csv to Others folder
+2024-11-28 18:46:38,748 - INFO - Moved triggers (8).csv to Others folder
+2024-11-28 18:46:38,749 - INFO - Moved triggers (9).csv to Others folder
+2024-11-28 18:46:38,750 - INFO - Moved triggers.csv to Others folder
+2024-11-28 18:46:38,751 - INFO - Moved ttsetup.exe to Executables folder
+2024-11-28 18:46:38,752 - INFO - Moved TurboTop - Always On.exe to Executables folder
+2024-11-28 18:46:38,753 - INFO - Moved UBIF #881 - 3 Stage - Device Repair Process.pdf to Documents folder
+2024-11-28 18:46:38,754 - INFO - Moved UBIF #881 - Daily Checklist (List) (1).pdf to Documents folder
+2024-11-28 18:46:38,755 - INFO - Moved UBIF #881 - Daily Checklist (List).pdf to Documents folder
+2024-11-28 18:46:38,756 - INFO - Moved UBIF #881 - Finding an Insurance Claim or In-Warranty Lead ( POS ).pdf to Documents folder
+2024-11-28 18:46:38,758 - INFO - Moved UBIF #881 - Logging into POS.pdf to Documents folder
+2024-11-28 18:46:38,759 - INFO - Moved UBIF #881 - Processing Buy Backs.pdf to Documents folder
+2024-11-28 18:46:38,760 - INFO - Moved UBIF #881 - Receiving Inventory UBIF Distro Purchase.pdf to Documents folder
+2024-11-28 18:46:38,760 - INFO - Moved UBIF #881 - Resuming Suspended Work Orders - Quotes ( POS ).pdf to Documents folder
+2024-11-28 18:46:38,761 - INFO - Moved UBIF - iphone screen under 10 minutes (1).png to Images folder
+2024-11-28 18:46:38,762 - INFO - Moved UBIF - iphone screen under 10 minutes.png to Images folder
+2024-11-28 18:46:38,764 - INFO - Moved UBIF - Logo.jfif to Others folder
+2024-11-28 18:46:38,765 - INFO - Moved UBIF - Submitting Galaxy Diagnostic Tool.pdf to Documents folder
+2024-11-28 18:46:38,766 - INFO - Moved UBIF - Technician Candidate Interview.pdf to Documents folder
+2024-11-28 18:46:38,769 - INFO - Moved UBIF - Week-1 - Payroll Timesheet - August 1.png to Images folder
+2024-11-28 18:46:38,770 - INFO - Moved UBIF - Week-2 - Payroll Timesheet - August 1.png to Images folder
+2024-11-28 18:46:38,771 - INFO - Moved UBIF 881 - Processing Buy Backs.pdf to Documents folder
+2024-11-28 18:46:38,772 - INFO - Moved UBIF Contacts.vcf to Others folder
+2024-11-28 18:46:38,772 - INFO - Moved UBIF Logo 2.png to Images folder
+2024-11-28 18:46:38,773 - INFO - Moved UBIF Logo.png to Images folder
+2024-11-28 18:46:38,775 - INFO - Moved uBreakiFix - Overtime Hours - Unpaid - Salary Started - 10-14-24 - 45kyr (1).pdf to Documents folder
+2024-11-28 18:46:38,775 - INFO - Moved uBreakiFix - Overtime Hours - Unpaid - Salary Started - 10-14-24 - 45kyr.pdf to Documents folder
+2024-11-28 18:46:38,776 - INFO - Moved uBreakiFix Portal.html to Code folder
+2024-11-28 18:46:38,780 - INFO - Moved uBreakiFix Portal_files to Folders folder
+2024-11-28 18:46:38,782 - INFO - Moved UBREAKIFIX-master to Folders folder
+2024-11-28 18:46:38,783 - INFO - Moved UBREAKIFIX-master.zip to ZIP_Files folder
+2024-11-28 18:46:38,784 - INFO - Moved ubreakifix.github.io-master to Folders folder
+2024-11-28 18:46:38,785 - INFO - Moved ubreakifix.github.io-master.zip to ZIP_Files folder
+2024-11-28 18:46:38,786 - INFO - Moved ufoInstall.msi to Executables folder
+2024-11-28 18:46:38,788 - INFO - Moved Unique_Parts.csv to Others folder
+2024-11-28 18:46:38,790 - INFO - Moved upcoming-chargebacks to Folders folder
+2024-11-28 18:46:38,792 - INFO - Moved upcoming-chargebacks (1) to Folders folder
+2024-11-28 18:46:38,793 - INFO - Moved upcoming-chargebacks (1).zip to ZIP_Files folder
+2024-11-28 18:46:38,794 - INFO - Moved upcoming-chargebacks.zip to ZIP_Files folder
+2024-11-28 18:46:38,794 - INFO - Moved UPC_123456789123 (1).png to Images folder
+2024-11-28 18:46:38,795 - INFO - Moved UPC_123456789123.png to Images folder
+2024-11-28 18:46:38,797 - INFO - Moved Update GSPN - Level S2+ Certificate Renewal Email.pdf to Documents folder
+2024-11-28 18:46:38,800 - INFO - Moved updated_chrome_extension to Folders folder
+2024-11-28 18:46:38,801 - INFO - Moved updated_chrome_extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,802 - INFO - Moved Update_GSPN___Level_S2__Certificate_Renewal_Email.pdf_1e179152-66f7-4abb-a4de-971ec86f876b.pdf to Documents folder
+2024-11-28 18:46:38,803 - INFO - Moved user-normal.png to Images folder
+2024-11-28 18:46:38,805 - INFO - Moved Visual-C-Runtimes-All-in-One-May-2024 to Folders folder
+2024-11-28 18:46:38,806 - INFO - Moved Visual-C-Runtimes-All-in-One-May-2024.zip to ZIP_Files folder
+2024-11-28 18:46:38,807 - INFO - Moved VoicemodSetup_2.48.4.0.exe to Executables folder
+2024-11-28 18:46:38,809 - INFO - Moved Volume_Master (2).crx to Others folder
+2024-11-28 18:46:38,810 - INFO - Moved Walmart (1).jfif to Others folder
+2024-11-28 18:46:38,811 - INFO - Moved Walmart Ordre 10-05-24.png to Images folder
+2024-11-28 18:46:38,812 - INFO - Moved Walmart Purchase - 8-30-24.png to Images folder
+2024-11-28 18:46:38,813 - INFO - Moved Walmart Receipt.png to Images folder
+2024-11-28 18:46:38,814 - INFO - Moved Walmart.jfif to Others folder
+2024-11-28 18:46:38,815 - INFO - Moved web_lock_extension to Folders folder
+2024-11-28 18:46:38,816 - INFO - Moved web_lock_extension.zip to ZIP_Files folder
+2024-11-28 18:46:38,819 - INFO - Moved web_lock_extension_unpacked to Folders folder
+2024-11-28 18:46:38,820 - INFO - Moved WindowsPCHealthCheckSetup (1).msi to Executables folder
+2024-11-28 18:46:38,821 - INFO - Moved WindowsPCHealthCheckSetup.msi to Executables folder
+2024-11-28 18:46:38,822 - INFO - Moved Windows_MediaFeaturePack_x64_1903_V1.msu to Others folder
+2024-11-28 18:46:38,822 - INFO - Moved winrar-x64-701.exe to Executables folder
+2024-11-28 18:46:38,824 - INFO - Moved Work Order Lookup Extension to Folders folder
+2024-11-28 18:46:38,825 - INFO - Moved Work Order Workflow Timeframe Expectations.png to Images folder
+2024-11-28 18:46:38,826 - INFO - Moved XHALE CITY - ITEMIZED RECEIPT.txt to Documents folder
+2024-11-28 18:46:38,827 - INFO - Moved xhale city - receipt.pdf to Documents folder
+2024-11-28 18:46:38,830 - INFO - Moved XSplit_VCam_4.2.2402.0901.exe to Executables folder
+2024-11-28 18:46:38,831 - INFO - Moved Your-Keyless-Entry-Remote-Order-Confirmation-368858.pdf to Documents folder
+2024-11-28 18:46:38,832 - INFO - Moved Your-Keyless-Entry-Remote-Order-Confirmation.pdf to Documents folder
+2024-11-28 18:46:38,833 - INFO - Moved [Guru3D.com]-DDU.zip to ZIP_Files folder
+2024-11-28 18:46:38,834 - INFO - Moved [SVC-09] IMEI Cloud guide for Service Center user_Rev1.0.pdf to Documents folder
+2024-11-28 18:46:38,835 - INFO - Moved _GVTech_Hub_18378113.apk to Others folder
+2024-11-28 18:46:38,837 - INFO - Moved {autopf} to Folders folder
+2024-11-28 18:53:59,439 - INFO - Initializing File Organizer...
+2024-11-28 18:53:59,526 - INFO - Detected OS: Windows
+2024-11-28 18:53:59,526 - INFO - Configuration loaded successfully
+2024-11-28 18:53:59,527 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:53:59,527 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:53:59,527 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:53:59,527 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:53:59,527 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:53:59,527 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:53:59,528 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:53:59,528 - INFO - Initialization complete
+2024-11-28 18:54:06,252 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:54:06,252 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:54:06,253 - INFO - No files to organize in C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:54:06,253 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:54:06,254 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:54:06,254 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:54:06,255 - INFO - No files to organize in C:\Users\domok\Downloads
+2024-11-28 18:56:08,208 - INFO - Initializing File Organizer...
+2024-11-28 18:56:08,288 - INFO - Detected OS: Windows
+2024-11-28 18:56:08,289 - INFO - Configuration loaded successfully
+2024-11-28 18:56:08,289 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:56:08,289 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:56:08,290 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:56:08,290 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:56:08,290 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:56:08,290 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:56:08,290 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:56:08,290 - INFO - Initialization complete
+2024-11-28 18:56:11,491 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:56:11,491 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:56:11,492 - INFO - No files to organize in C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:56:11,492 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:56:11,492 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:56:11,493 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:56:11,494 - INFO - No files to organize in C:\Users\domok\Downloads
+2024-11-28 18:57:57,716 - INFO - Initializing File Organizer...
+2024-11-28 18:57:57,804 - INFO - Detected OS: Windows
+2024-11-28 18:57:57,805 - INFO - Configuration loaded successfully
+2024-11-28 18:57:57,805 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:57:57,805 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:57:57,806 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:57:57,806 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:57:57,806 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:57:57,806 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:57:57,806 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:57:57,806 - INFO - Initialization complete
+2024-11-28 18:58:06,447 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:58:06,448 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:58:06,448 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:58:06,448 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:58:06,449 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:59:59,669 - INFO - Initializing File Organizer...
+2024-11-28 18:59:59,758 - INFO - Detected OS: Windows
+2024-11-28 18:59:59,759 - INFO - Configuration loaded successfully
+2024-11-28 18:59:59,759 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:59:59,759 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:59:59,759 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:59:59,760 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 18:59:59,760 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:59:59,760 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 18:59:59,760 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 18:59:59,760 - INFO - Initialization complete
+2024-11-28 19:00:01,112 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:00:01,112 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:00:01,112 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:00:01,113 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:00:01,113 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:00:23,605 - INFO - Initializing File Organizer...
+2024-11-28 19:00:23,643 - INFO - Detected OS: Windows
+2024-11-28 19:00:23,644 - INFO - Configuration loaded successfully
+2024-11-28 19:00:23,644 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:00:23,644 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:00:23,645 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:00:23,645 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:00:23,645 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:00:23,645 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:00:23,645 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:00:23,646 - INFO - Initialization complete
+2024-11-28 19:00:24,579 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:00:24,580 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:00:24,580 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:00:24,581 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:00:24,581 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:01:39,431 - INFO - Initializing File Organizer...
+2024-11-28 19:01:39,512 - INFO - Detected OS: Windows
+2024-11-28 19:01:39,513 - INFO - Configuration loaded successfully
+2024-11-28 19:01:39,513 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:01:39,513 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:01:39,514 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:01:39,514 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:01:39,514 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:01:39,514 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:01:39,514 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:01:39,514 - INFO - Initialization complete
+2024-11-28 19:01:40,969 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:01:40,969 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:01:40,970 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:01:40,970 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:01:40,971 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:03:36,228 - INFO - Initializing File Organizer...
+2024-11-28 19:03:36,316 - INFO - Detected OS: Windows
+2024-11-28 19:03:36,316 - INFO - Configuration loaded successfully
+2024-11-28 19:03:36,317 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:03:36,317 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:03:36,317 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:03:36,317 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:03:36,318 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:03:36,318 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:03:36,318 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:03:36,318 - INFO - Initialization complete
+2024-11-28 19:03:37,568 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:03:37,569 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:03:37,569 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:03:37,569 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:03:37,570 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:26,856 - INFO - Initializing File Organizer...
+2024-11-28 19:05:26,940 - INFO - Detected OS: Windows
+2024-11-28 19:05:26,941 - INFO - Configuration loaded successfully
+2024-11-28 19:05:26,941 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:26,941 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:26,942 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:26,942 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:05:26,942 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:26,942 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:26,942 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:26,943 - INFO - Initialization complete
+2024-11-28 19:05:27,980 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:27,980 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:27,980 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:27,981 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:05:27,981 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:34,232 - INFO - Initializing File Organizer...
+2024-11-28 19:05:34,269 - INFO - Detected OS: Windows
+2024-11-28 19:05:34,270 - INFO - Configuration loaded successfully
+2024-11-28 19:05:34,270 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:34,270 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:34,271 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:34,271 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:05:34,271 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:34,271 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:34,271 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:34,271 - INFO - Initialization complete
+2024-11-28 19:05:35,720 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:35,720 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:05:35,721 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:05:35,721 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:05:35,721 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:07:36,551 - INFO - Initializing File Organizer...
+2024-11-28 19:07:36,637 - INFO - Detected OS: Windows
+2024-11-28 19:07:36,638 - INFO - Configuration loaded successfully
+2024-11-28 19:07:36,638 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:07:36,638 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:07:36,639 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:07:36,639 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:07:36,639 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:07:36,639 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:07:36,639 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:07:36,639 - INFO - Initialization complete
+2024-11-28 19:07:41,049 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:07:41,050 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:07:41,050 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:07:41,051 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:07:41,051 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:08:59,586 - INFO - Initializing File Organizer...
+2024-11-28 19:08:59,635 - INFO - Detected OS: Windows
+2024-11-28 19:08:59,635 - INFO - Configuration loaded successfully
+2024-11-28 19:08:59,636 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:08:59,636 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:08:59,636 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:08:59,636 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:08:59,637 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:08:59,637 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:08:59,637 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:08:59,637 - INFO - Initialization complete
+2024-11-28 19:09:02,795 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:09:02,798 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:09:02,799 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:09:02,800 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:09:02,800 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:09:21,739 - INFO - Initializing File Organizer...
+2024-11-28 19:09:21,776 - INFO - Detected OS: Windows
+2024-11-28 19:09:21,777 - INFO - Configuration loaded successfully
+2024-11-28 19:09:21,777 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:09:21,777 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:09:21,777 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:09:21,778 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:09:21,778 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:09:21,778 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:09:21,778 - INFO - Selected Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:09:21,778 - INFO - Initialization complete
+2024-11-28 19:09:27,208 - INFO - Found Desktop path from registry: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:09:27,208 - INFO - Using Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:09:27,209 - INFO - Found standard Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:09:27,209 - INFO - Found Downloads path from registry: C:\Users\domok\Downloads
+2024-11-28 19:09:27,210 - INFO - Using Downloads path: C:\Users\domok\Downloads
+2024-11-28 19:09:27,211 - INFO - Found standard Documents path: C:\Users\domok\Documents
+2024-11-28 19:09:27,211 - INFO - Using Documents path: C:\Users\domok\Documents
+2024-11-28 19:11:33,377 - INFO - Initializing File Organizer...
+2024-11-28 19:11:33,458 - INFO - Detected OS: Windows
+2024-11-28 19:11:33,458 - INFO - Configuration loaded successfully
+2024-11-28 19:11:33,463 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:11:33,463 - INFO - Selected Downloads path: C:\Users\domok\AppData\Roaming
+2024-11-28 19:11:33,463 - INFO - Initialization complete
+2024-11-28 19:11:39,868 - ERROR - Error fixing OneDrive archives: 'FileOrganizer' object has no attribute 'categories'
+2024-11-28 19:11:39,880 - ERROR - Traceback (most recent call last):
+  File "C:\Users\domok\OneDrive\Archive - Pre-2024\Documents\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 708, in fix_onedrive_archives
+    for category in self.categories.keys():
+                    ^^^^^^^^^^^^^^^
+AttributeError: 'FileOrganizer' object has no attribute 'categories'
+
+2024-11-28 19:11:41,951 - INFO - Initializing File Organizer...
+2024-11-28 19:11:41,989 - INFO - Detected OS: Windows
+2024-11-28 19:11:41,990 - INFO - Configuration loaded successfully
+2024-11-28 19:11:41,994 - INFO - Selected Desktop path: C:\Users\domok\OneDrive\Archive - Pre-2024\Desktop
+2024-11-28 19:11:41,994 - INFO - Selected Downloads path: C:\Users\domok\AppData\Roaming
+2024-11-28 19:11:41,995 - INFO - Initialization complete
+2024-11-28 19:11:44,985 - INFO - Moved shortcut: Topher's Notebook.url
+2024-11-28 19:11:44,986 - ERROR - Error fixing OneDrive archives: 'FileOrganizer' object has no attribute 'categories'
+2024-11-28 19:11:44,996 - ERROR - Traceback (most recent call last):
+  File "C:\Users\domok\OneDrive\Archive - Pre-2024\Documents\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 708, in fix_onedrive_archives
+    for category in self.categories.keys():
+                    ^^^^^^^^^^^^^^^
+AttributeError: 'FileOrganizer' object has no attribute 'categories'
+
+2024-11-28 21:47:10,235 - ERROR - GUI initialization error: 'FileOrganizerGUI' object has no attribute 'on_move'
+2024-11-28 21:47:10,236 - ERROR - Traceback (most recent call last):
+  File "C:\Users\xlkay\OneDrive\Desktop\MouseWithoutBorders\Workspace_Cleanup-main\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 832, in __init__
+    self.button.bind('<B1-Motion>', self.on_move)
+                                    ^^^^^^^^^^^^
+AttributeError: 'FileOrganizerGUI' object has no attribute 'on_move'
+
+2024-11-28 21:47:10,236 - ERROR - Application error: 'FileOrganizerGUI' object has no attribute 'on_move'
+2024-11-28 21:47:10,237 - ERROR - Traceback (most recent call last):
+  File "C:\Users\xlkay\OneDrive\Desktop\MouseWithoutBorders\Workspace_Cleanup-main\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 1113, in main
+    app = FileOrganizerGUI()
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xlkay\OneDrive\Desktop\MouseWithoutBorders\Workspace_Cleanup-main\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 832, in __init__
+    self.button.bind('<B1-Motion>', self.on_move)
+                                    ^^^^^^^^^^^^
+AttributeError: 'FileOrganizerGUI' object has no attribute 'on_move'
+
+2024-11-28 21:47:26,672 - ERROR - GUI initialization error: 'FileOrganizerGUI' object has no attribute 'on_move'
+2024-11-28 21:47:26,674 - ERROR - Traceback (most recent call last):
+  File "C:\Users\xlkay\OneDrive\Desktop\MouseWithoutBorders\Workspace_Cleanup-main\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 832, in __init__
+    self.button.bind('<B1-Motion>', self.on_move)
+                                    ^^^^^^^^^^^^
+AttributeError: 'FileOrganizerGUI' object has no attribute 'on_move'
+
+2024-11-28 21:47:26,674 - ERROR - Application error: 'FileOrganizerGUI' object has no attribute 'on_move'
+2024-11-28 21:47:26,674 - ERROR - Traceback (most recent call last):
+  File "C:\Users\xlkay\OneDrive\Desktop\MouseWithoutBorders\Workspace_Cleanup-main\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 1118, in main
+    app = FileOrganizerGUI()
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\xlkay\OneDrive\Desktop\MouseWithoutBorders\Workspace_Cleanup-main\Workspace_Cleanup-main\Workspace_Cleanup-main\File_Organizer.py", line 832, in __init__
+    self.button.bind('<B1-Motion>', self.on_move)
+                                    ^^^^^^^^^^^^
+AttributeError: 'FileOrganizerGUI' object has no attribute 'on_move'
+
