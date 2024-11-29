@@ -1,0 +1,4 @@
+pathlib
+typing
+pillow>=9.5.0
+pystray>=0.19.4
